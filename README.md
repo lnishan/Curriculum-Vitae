@@ -17,6 +17,7 @@ A passionate, experienced and skilled Computer Science student from Taiwan.
 
 
 ## Contact Info
+
 - Email: lnishan.cs01 (at) g2.nctu.edu.tw
 - [GitHub](https://github.com/lnishan)
 - [LinkedIn](https://www.linkedin.com/in/lnishantw)
@@ -24,6 +25,7 @@ A passionate, experienced and skilled Computer Science student from Taiwan.
 
 
 ## Education
+
 **National Chiao Tung University**  
 Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
 - GPA **4.0**/4.3
@@ -33,6 +35,7 @@ Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018
 
 
 ## Skills
+
 - **Specialized**
   - `C/C++`
   - `Algorithms`
@@ -47,6 +50,7 @@ Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018
 
 
 ## Experiences
+
 - **Google** … Cambridge, Massachusetts ................ Jun 2017 － Sep 2017  
 **Software Engineering Intern**
   - `Python`, `Software Engineering`
@@ -94,6 +98,7 @@ Also wrote several shell scripts to automate these routines.
 
 ## Honors
 ### Academic Performances
+
 - **Academic Achievement Award**  
 Top 5% in class in terms of overall grades
   - `2016 Spring`, `2015 Fall`, `2015 Spring`, `2014 Fall`, `2014 Spring`
@@ -103,6 +108,7 @@ Top 5% in class for the “Core Subjects” designated by the department
   - `Discrete Mathematics`, `Data Structures`
 
 ### Problem Solving (Algorithms & Data Structures)
+
 - **ACM-ICPC (International Collegiate Programming Contest)**
   - *Honorable Mention* - `2015/Taipei`, `2015/Hanoi`, `2012/Kaohsiung`
 - **National Collegiate Programming Contest**
@@ -123,6 +129,7 @@ Top 5% in class for the “Core Subjects” designated by the department
   - *Honorable Mention* - `2009`
 
 ### Web Development (HTML/CSS/JavaScript/PHP/MySQL)
+
 - **National Collegiate Programming Contest - Application Software**
   - *3rd Place* - `2015`
   - *Honorable Mention* - `2014`
@@ -130,6 +137,7 @@ Top 5% in class for the “Core Subjects” designated by the department
   - *Bronze (3rd Place)* - `2010`
 
 ### GUI (Visual Basic)
+
 - **Information Technology Month - Creative Software Programming Contest**
   - *4th Place* - `2010/National/Individual`
   - *4th Place* - `2009/National/Team`
@@ -137,6 +145,7 @@ Top 5% in class for the “Core Subjects” designated by the department
 
 
 ## Projects
+
 - [lni::vector](https://github.com/lnishan/vector)
   - `C++`, `Data Structures`
   - A supercharged, almost-C++17-compliant std::vector implementation. lni::vector is up-to-149% more efficient than counterparts on major compilers - gcc 6, clang 3.8 and VS14. I’ve also found a major mistake in Facebook’s folly::fbvector.
@@ -160,11 +169,13 @@ Components: 1. FingRRR, a multi-threaded interaction framework built on top of O
 
 
 ## Open Source Contributions
+
 - Creator of [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **150+ forks** on GitHub)  
 A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures.
 
 
 ## Talks
+
 - CDC Performance Improvement: Trimming Resistance Network, InnoDay, Synopsys Shanghai, Nov 14, 2016
 - Profiling & Graph Visualization, Synopsys Taiwan, Aug 17, 2016
 - [State Space Search](http://www.slideshare.net/JasmineChen23/state-space-search-66388212), NCTU Training Camp, Summer 2015
