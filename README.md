@@ -7,6 +7,7 @@ A passionate, experienced and skilled Computer Science student from Taiwan.
 - [Contact Info](#contact-info)
 - [Education](#education)
 - [Skills](#skills)
+- [Experiences](#experiences)
 - [Honors](#honors)
 - [Projects](#projects)
 - [Open Source Contributions](#open-source-contributions)
