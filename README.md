@@ -1,3 +1,8 @@
+---
+title: Jasmine "lnishan" Chen
+layout: post
+---
+
 # Jasmine “lnishan” Chen
 A passionate, experienced and skilled Computer Science student from Taiwan.
 
