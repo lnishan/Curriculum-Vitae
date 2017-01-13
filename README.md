@@ -28,6 +28,7 @@ A passionate, experienced and skilled Computer Science student from Taiwan.
 
 **National Chiao Tung University**  
 Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
+
 - GPA **4.0**/4.3
 - **5** *Academic Achievement Awards* (4 in Computer Science)
 - **2** *Curricular Scholarships* (Discrete Mathematics, Data Structures)
@@ -97,6 +98,7 @@ Also wrote several shell scripts to automate these routines.
 
 
 ## Honors
+
 ### Academic Performances
 
 - **Academic Achievement Award**  
