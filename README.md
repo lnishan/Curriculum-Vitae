@@ -10,11 +10,11 @@ A passionate, experienced and skilled Computer Science student from Taiwan.
 
 
 ## Education
-**National Chiao Tung University**
+**National Chiao Tung University**  
 Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
 - GPA **4.0**/4.3
-- **5** Academic Achievement Awards (4 in Computer Science)
-- **2** Curricular Scholarships (Discrete Mathematics, Data Structures)
+- **5** *Academic Achievement Awards* (4 in Computer Science)
+- **2** *Curricular Scholarships* (Discrete Mathematics, Data Structures)
 - **Teaching Assistant**, Object-Oriented Programming
 
 
@@ -36,6 +36,7 @@ Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018
 - **Google** … Cambridge, Massachusetts ................ Jun 2017 － Sep 2017  
 **Software Engineering Intern**
   - `Python`, `Software Engineering`
+  - Expand a large-scale testing framework used by YouTube infrastructure services.
 
 - **Synopsys** … Taipei, Taiwan ........................ Jul 2016 － Aug 2016  
 **R&D Intern**
@@ -46,7 +47,7 @@ Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018
   - Utilized a wide range of tools for graph visualization, debugging, validation, profiling, data analytics and documentations.  
 Also wrote several shell scripts to automate these routines.
   - Wrote *massif-cherrypick*, a *Valgrind* extension to finely profile memory consumption.
-  - Won **1st Place** for the internship and presented the work at InnoDay (held in Synopsys Shanghai) on Nov 14, 2016.
+  - Won **1st Place** for the internship and presented the work at *InnoDay*, held in *Synopsys Shanghai*,  on Nov 14, 2016.
 
 - **ITSA E-tutor** … Work from home .................... Apr 2016 － Dec 2016  
 **Problem Reviewer**
