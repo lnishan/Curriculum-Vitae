@@ -94,11 +94,11 @@ Also wrote several shell scripts to automate these routines.
 
 ## Honors
 ### Academic Performances
-- **Academic Achievement Award**
+- **Academic Achievement Award**  
 Top 5% in class in terms of overall grades
   - `2016 Spring`, `2015 Fall`, `2015 Spring`, `2014 Fall`, `2014 Spring`
 
-- **Curricular Scholarship**
+- **Curricular Scholarship**  
 Top 5% in class for the “Core Subjects” designated by the department
   - `Discrete Mathematics`, `Data Structures`
 
