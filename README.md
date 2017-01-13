@@ -3,10 +3,10 @@ A passionate, experienced and skilled Computer Science student from Taiwan.
 
 
 ## Contact Info
-Email: lnishan.cs01 (at) g2.nctu.edu.tw
-[GitHub](https://github.com/lnishan)
-[LinkedIn](https://www.linkedin.com/in/lnishantw)
-[Twitter](https://twitter.com/lnishantw)
+- Email: lnishan.cs01 (at) g2.nctu.edu.tw
+- [GitHub](https://github.com/lnishan)
+- [LinkedIn](https://www.linkedin.com/in/lnishantw)
+- [Twitter](https://twitter.com/lnishantw)
 
 
 ## Education
@@ -33,11 +33,11 @@ Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018
 
 
 ## Experiences
-- **Google** … Cambridge, Massachusetts ……………………………….. Jun 2017 － Sep 2017  
+- **Google** … Cambridge, Massachusetts ................ Jun 2017 － Sep 2017  
 **Software Engineering Intern**
   - `Python`, `Software Engineering`
 
-- **Synopsys** … Taipei, Taiwan ……………………………………………. Jul 2016 － Aug 2016  
+- **Synopsys** … Taipei, Taiwan ........................ Jul 2016 － Aug 2016  
 **R&D Intern**
   - `C/C++`, `Algorithms`, `Shell Scripting`, `Graph Visualization`, `Memory Profiling`
   - Project: *Current Density Check Performance Improvement: Trimming Resistance Network*
@@ -48,27 +48,27 @@ Also wrote several shell scripts to automate these routines.
   - Wrote *massif-cherrypick*, a *Valgrind* extension to finely profile memory consumption.
   - Won **1st Place** for the internship and presented the work at InnoDay (held in Synopsys Shanghai) on Nov 14, 2016.
 
-- **ITSA E-tutor** … Work from home ……………………………………… Apr 2016 － Dec 2016  
+- **ITSA E-tutor** … Work from home .................... Apr 2016 － Dec 2016  
 **Problem Reviewer**
   - `Algorithms`, `Discrete Mathematics`
   - ITSA E-tutor is an online learning platform initiated by the *Ministry of Education* in Taiwan.
   - Tasked with reviewing written problems (mostly about algorithms and discrete mathematics) on a monthly basis.
   - Report any issues with problem statements and verify correctness of test data.
 
-- **Cooler Master** … Taipei, Taiwan ……………………………………… Apr 2016 － Jun 2016  
+- **Cooler Master** … Taipei, Taiwan ................... Apr 2016 － Jun 2016  
 **Independent Contractor**
   - `C++`, `Windows API`, `C++ SDK`, `Time-Driven Programming`
   - Introduced and led a team of 4 juniors.
   - Programmed LED lighting effects on *MasterKeys Pro* (keyboard) with its C++ SDK and Windows API.
   - Attained animations with smooth gradient transitions with advanced time-driven programming.
 
-- **4Gamers** … Taipei, Taiwan …………………………………………… Jan 2014 － Aug 2014  
+- **4Gamers** … Taipei, Taiwan ......................... Jan 2014 － Aug 2014  
 **Internship**
   - `IT`, `Web Development`
   - General IT Assistance.
   - Implemented professional web designs.
 
-- **eGamers** … Work from home ……………………………………….. Jul 2012 － Dec 2013  
+- **eGamers** … Work from home ......................... Jul 2012 － Dec 2013  
 **Internship**
   - `IT`, `Web Development`, `Community Coordination`
   - General IT Assistance.
