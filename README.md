@@ -144,5 +144,5 @@ Components: 1. FingRRR, a multi-threaded interaction framework built on top of O
 
 
 ## Open Source Contributions
-- Creator of [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **150+ forks** on GitHub)
+- Creator of [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **150+ forks** on GitHub)  
 A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. It’s currently starred by 700+ and forked by 150+ GitHub users worldwide.
