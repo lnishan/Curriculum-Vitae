@@ -147,3 +147,9 @@ Components: 1. FingRRR, a multi-threaded interaction framework built on top of O
 ## Open Source Contributions
 - Creator of [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **150+ forks** on GitHub)  
 A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures.
+
+
+## Talks
+- [State Space Search](http://www.slideshare.net/JasmineChen23/state-space-search-66388212), NCTU Training Camp, Summer 2015
+- [Basic Enumeration](http://www.slideshare.net/JasmineChen23/basic-enumeration-chinese), NCTU Training Camp, Summer 2015
+- [Essential C/C++](http://www.slideshare.net/JasmineChen23/essential-cc), NCTU Training Camp, Winter 2015
