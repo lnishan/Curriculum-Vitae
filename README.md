@@ -85,6 +85,7 @@ Also wrote several shell scripts to automate these routines.
 - **eGamers** … Work from home ......................... Jul 2012 － Dec 2013  
 **Internship**
   - `IT`, `Web Development`, `Community Coordination`
+  - Worked closely with Twitch celebrity streamers (5,000 - 100,000 followers).
   - General IT Assistance.
   - Wrote a simple form management system for hosting tournaments.
   - Wrote tools for news publishing.
@@ -163,6 +164,8 @@ A curated list of awesome resources for Competitive Programming, Algorithms and 
 
 
 ## Talks
+- CDC Performance Improvement: Trimming Resistance Network, InnoDay, Synopsys Shanghai, Nov 14, 2016
+- Profiling & Graph Visualization, Synopsys Taiwan, Aug 17, 2016
 - [State Space Search](http://www.slideshare.net/JasmineChen23/state-space-search-66388212), NCTU Training Camp, Summer 2015
 - [Basic Enumeration](http://www.slideshare.net/JasmineChen23/basic-enumeration-chinese), NCTU Training Camp, Summer 2015
 - [Essential C/C++](http://www.slideshare.net/JasmineChen23/essential-cc), NCTU Training Camp, Winter 2015
