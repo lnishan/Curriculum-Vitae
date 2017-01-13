@@ -2,6 +2,19 @@
 A passionate, experienced and skilled Computer Science student from Taiwan.
 
 
+---
+
+- [Contact Info](#contact-info)
+- [Education](#education)
+- [Skills](#skills)
+- [Honors](#honors)
+- [Projects](#projects)
+- [Open Source Contributions](#open-source-contributions)
+- [Talks](#talks)
+
+---
+
+
 ## Contact Info
 - Email: lnishan.cs01 (at) g2.nctu.edu.tw
 - [GitHub](https://github.com/lnishan)
