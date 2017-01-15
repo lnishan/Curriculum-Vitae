@@ -4,21 +4,22 @@ A passionate, experienced and skilled computer science student.
 
 ---
 
-- [Contact Info](#contact-info)
+- [Contact](#contact)
 - [Education](#education)
 - [Skills](#skills)
 - [Experiences](#experiences)
 - [Honors](#honors)
-- [Open Source Contributions](#open-source-contributions)
 - [Projects](#projects)
 - [Talks](#talks)
 
 ---
 
 
-## Contact Info
+## Contact
 
-- Email: lnishan.cs01 (at) g2.nctu.edu.tw
+Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** (native)
+
+- Email: `lnishan.cs01 (at) g2.nctu.edu.tw`
 - [GitHub](https://github.com/lnishan)
 - [LinkedIn](https://www.linkedin.com/in/lnishantw)
 - [Twitter](https://twitter.com/lnishantw)
@@ -26,13 +27,12 @@ A passionate, experienced and skilled computer science student.
 
 ## Education
 
-**National Chiao Tung University**  
+- **National Chiao Tung University**  
 Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
-
-- GPA **4.0**/4.3
-- **5** *Academic Achievement Awards* (4 in Computer Science)
-- **2** *Curricular Scholarships* (Discrete Mathematics, Data Structures)
-- **Teaching Assistant**, Object-Oriented Programming
+  - GPA **4.0**/4.3
+  - **5** *Academic Achievement Awards* (4 in Computer Science)
+  - **2** *Curricular Scholarships* (Discrete Mathematics, Data Structures)
+  - **Teaching Assistant**, Object-Oriented Programming
 
 
 ## Skills
@@ -45,9 +45,9 @@ Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018
 - **Proficient**
   - `Python`
   - `Shell Scripting`
-  - `Parallel Programming (C++ <thread>/Pthread/OpenMP/CUDA/MPI)`
-  - `System/Network Administration (FreeBSD/Linux/macOS)`
-  - `Web Development (HTML/CSS/JavaScript/PHP/MySQL)`
+  - `Parallel Programming` (C++ <thread>/Pthread/OpenMP/CUDA/MPI)
+  - `System/Network Administration` (FreeBSD/Linux/macOS)
+  - `Web Development` (HTML/CSS/JavaScript/PHP/MySQL)
 
 
 ## Experiences
@@ -156,13 +156,11 @@ Was the **team leader** and **main coder** in all the following:
   - *4th Place* - `2009/Northern Region/Individual`
 
 
-## Open Source Contributions
-
-- Creator of [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **150+ forks** on GitHub)
-  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures.
-
-
 ## Projects
+
+- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **150+ forks** on GitHub)
+  - `Markdown`, `Algorithms`, `Data Structures`
+  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures.
 
 - [lni::vector](https://github.com/lnishan/vector)
   - `C++`, `Data Structures`
