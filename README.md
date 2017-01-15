@@ -1,5 +1,5 @@
 # Jasmine “lnishan” Chen
-A passionate, experienced and skilled Computer Science student from Taiwan.
+A passionate, experienced and skilled computer science student.
 
 
 ---
@@ -9,8 +9,8 @@ A passionate, experienced and skilled Computer Science student from Taiwan.
 - [Skills](#skills)
 - [Experiences](#experiences)
 - [Honors](#honors)
-- [Projects](#projects)
 - [Open Source Contributions](#open-source-contributions)
+- [Projects](#projects)
 - [Talks](#talks)
 
 ---
@@ -45,56 +45,64 @@ Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018
 - **Proficient**
   - `Python`
   - `Shell Scripting`
-  - `Parallel Programming`
-  - `System/Network Administration`
+  - `Parallel Programming (C++ <thread>/Pthread/OpenMP/CUDA/MPI)`
+  - `System/Network Administration (FreeBSD/Linux/macOS)`
   - `Web Development (HTML/CSS/JavaScript/PHP/MySQL)`
 
 
 ## Experiences
 
-- **Google** … Cambridge, Massachusetts ................ Jun 2017 － Sep 2017  
+- **Google** ... Cambridge, Massachusetts ................ Jun 2017 － Sep 2017  
 **Software Engineering Intern**
   - `Python`, `Software Engineering`
   - Expand a large-scale testing framework used by YouTube infrastructure services.
 
-- **Synopsys** … Taipei, Taiwan ........................ Jul 2016 － Aug 2016  
+- **Synopsys** ... Taipei, Taiwan ........................ Jul 2016 － Aug 2016  
 **R&D Intern**
   - `C/C++`, `Algorithms`, `Shell Scripting`, `Graph Visualization`, `Memory Profiling`
   - Project: *Current Density Check Performance Improvement: Trimming Resistance Network*
   - Speeded up *Nodal Analysis* by 120% while reducing memory consumption by 47%.
   - Adapted and applied advanced *graph theory* knowledge and algorithms.
-  - Utilized a wide range of tools for graph visualization, debugging, validation, profiling, data analytics and documentations.  
-Also wrote several shell scripts to automate these routines.
-  - Wrote *massif-cherrypick*, a *Valgrind* extension to finely profile memory consumption.
-  - Won **1st Place** for the internship and presented the work at *InnoDay*, held in *Synopsys Shanghai*,  on Nov 14, 2016.
+  - Utilized a wide range of tools for graph visualization, debugging, validation, profiling, data analytics and documentations. I Also wrote several shell scripts to automate these routines.
+  - Wrote *massif-cherrypick*, a *Valgrind* extension to analyze partial memory consumptions.
+  - Won **1st Place** for the internship and presented the work at *InnoDay*, held in *Synopsys Shanghai*, on Nov 14, 2016.
 
-- **ITSA E-tutor** … Work from home .................... Apr 2016 － Dec 2016  
+- **ITSA E-tutor** ... Work from home .................... Apr 2016 － Dec 2016  
 **Problem Reviewer**
   - `Algorithms`, `Discrete Mathematics`
   - ITSA E-tutor is an online learning platform initiated by the *Ministry of Education* in Taiwan.
   - Tasked with reviewing written problems (mostly about algorithms and discrete mathematics) on a monthly basis.
   - Report any issues with problem statements and verify correctness of test data.
 
-- **Cooler Master** … Taipei, Taiwan ................... Apr 2016 － Jun 2016  
+- **Cooler Master** ... Taipei, Taiwan ................... Apr 2016 － Jun 2016  
 **Independent Contractor**
   - `C++`, `Windows API`, `C++ SDK`, `Time-Driven Programming`
   - Introduced and led a team of 4 juniors.
   - Programmed LED lighting effects on *MasterKeys Pro* (keyboard) with its C++ SDK and Windows API.
   - Attained animations with smooth gradient transitions with advanced time-driven programming.
 
-- **4Gamers** … Taipei, Taiwan ......................... Jan 2014 － Aug 2014  
+- **4Gamers** ... Taipei, Taiwan ......................... Jan 2014 － Aug 2014  
 **Internship**
   - `IT`, `Web Development`
-  - General IT Assistance.
-  - Implemented professional web designs.
+  - General IT Assistance, including setting up PCs and problem troubleshooting.
+  - Implemented professional web designs with HTML, CSS and JavaScript.
 
-- **eGamers** … Work from home ......................... Jul 2012 － Dec 2013  
-**Internship**
+- **eGamers** ... Work from home ......................... Jul 2012 － Dec 2013  
+**Internship**, **Community Coordinator**
   - `IT`, `Web Development`, `Community Coordination`
   - Worked closely with Twitch celebrity streamers (5,000 - 100,000 followers).
-  - General IT Assistance.
+  - General IT Assistance, including setting up PCs and problem troubleshooting.
   - Wrote a simple form management system for hosting tournaments.
-  - Wrote tools for news publishing.
+  - Wrote handy tools for news publishing.
+
+- **i-Feels.net** ... Hong Kong / Work from home ......... Apr 2006 － Feb 2008  
+**Founding Board Member**, **Administrator**, **Developer**
+  - `Visual Basic`, `PHP`, `MySQL`, `Website Mangagment`
+  - Cofounded a small software development studio with some friends from Hong Kong.
+  - Then cofounded and administered i-Feels.net with the same group of friends.
+  - With more than 60,000 registered members, it was enlisted as HK top 500 in Alexa Traffic Rank.
+  - More information can be found on this [Wiki page](http://evchk.wikia.com/wiki/I-Feels.net).
+  - I've also administered a number of websites and forums with moderate web traffic during that period of time.
 
 
 ## Honors
@@ -110,6 +118,8 @@ Top 5% in class for the “Core Subjects” designated by the department
   - `Discrete Mathematics`, `Data Structures`
 
 ### Problem Solving (Algorithms & Data Structures)
+
+Was the **team leader** and **main coder** in all the following:
 
 - **ACM-ICPC (International Collegiate Programming Contest)**
   - *Honorable Mention* - `2015/Taipei`, `2015/Hanoi`, `2012/Kaohsiung`
@@ -146,6 +156,12 @@ Top 5% in class for the “Core Subjects” designated by the department
   - *4th Place* - `2009/Northern Region/Individual`
 
 
+## Open Source Contributions
+
+- Creator of [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **150+ forks** on GitHub)
+  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures.
+
+
 ## Projects
 
 - [lni::vector](https://github.com/lnishan/vector)
@@ -167,13 +183,11 @@ Top 5% in class for the “Core Subjects” designated by the department
 - [Twitch Plays Connect6](https://github.com/lnishan/TwitchPlaysConnect6)
   - `C++`, `Multithreaded Programming`, `Network Programming`, `Artificial Intelligence`
   - An audience-sourced Connect6 game hosted on TwitchTV.  
-Components: 1. FingRRR, a multi-threaded interaction framework built on top of OpenCV. 2. TwitchPlaysAPI, an IRC bot that communicates with IRC servers. 3. MyConnectAI, a Connect6 AI I designed from scratch.
+Components: (1) FingRRR, a multi-threaded interaction framework built on top of OpenCV. (2) TwitchPlaysAPI, an IRC bot that communicates with IRC servers. (3) MyConnectAI, a Connect6 AI I designed from scratch.
 
-
-## Open Source Contributions
-
-- Creator of [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **150+ forks** on GitHub)  
-A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures.
+- [FormMgr](http://lnishan.net/FormMgr/)
+  - `HTML5`, `JavaScript`, `PHP`, `MySQL`, `Web Development`
+  - A simple and easy-to-use form management system for organizations. It allows users to validate fields with custom regular expressions. I utilized HTML5 native drag-and-drop and JavaScript for extensive DOM manipulations.
 
 
 ## Talks
