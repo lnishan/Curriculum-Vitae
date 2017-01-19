@@ -60,12 +60,12 @@ Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018
 - **Synopsys** ... Taipei, Taiwan ........................ Jul 2016 － Aug 2016  
 **R&D Intern**
   - `C/C++`, `Algorithms`, `Shell Scripting`, `Graph Visualization`, `Memory Profiling`
+  - Won **1st Place** for the internship and presented the work at InnoDay in Synopsys Shanghai.
   - Project: Current Density Check Performance Improvement: Trimming Resistance Network
   - Speeded up Nodal Analysis by 120% while reducing memory consumption by 47%.
   - Adapted and applied advanced graph theory knowledge and algorithms.
   - Utilized a wide range of tools for graph visualization, debugging, validation, profiling, data analytics and documentations. I Also wrote several shell scripts to automate these routines.
   - Wrote massif-cherrypick, a Valgrind extension to analyze partial memory consumptions.
-  - Won **1st Place** for the internship and presented the work at InnoDay in Synopsys Shanghai.
 
 - **ITSA E-tutor** ... Work from home .................... Apr 2016 － Dec 2016  
 **Problem Reviewer**
@@ -158,7 +158,7 @@ I was the **team leader** and **main coder** in all the following contests.
 
 ## Projects
 
-- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **150+ forks** on GitHub)
+- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **200+ forks** on GitHub)
   - `Markdown`, `Algorithms`, `Data Structures`
   - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures.
 
