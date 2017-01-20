@@ -19,16 +19,16 @@ A passionate, experienced and skilled computer science student.
 
 Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** (native)
 
-- Email: `lnishan.cs01 (at) g2.nctu.edu.tw`
-- [GitHub](https://github.com/lnishan)
-- [LinkedIn](https://www.linkedin.com/in/lnishantw)
-- [Twitter](https://twitter.com/lnishantw)
+- Email: `lnishan.cs01@g2.nctu.edu.tw`
+- [GitHub @lnishan](https://github.com/lnishan)
+- [LinkedIn @lnishantw](https://www.linkedin.com/in/lnishantw)
+- [Twitter @lnishantw](https://twitter.com/lnishantw)
 
 
 ## Education
 
 - **National Chiao Tung University**  
-Bachelor’s Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
+Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
   - GPA **4.0**/4.3
   - **5** *Academic Achievement Awards* (4 in Computer Science)
   - **2** *Curricular Scholarships* (Discrete Mathematics, Data Structures)
@@ -160,11 +160,11 @@ I was the **team leader** and **main coder** in all the following contests.
 
 - [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **200+ forks** on GitHub)
   - `Markdown`, `Algorithms`, `Data Structures`
-  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures.
+  - A curated list of awesome resources for competitive programming, algorithms and data structures. This project was aimed to connect the world to information - and it did :) .
 
 - [lni::vector](https://github.com/lnishan/vector)
   - `C++`, `Data Structures`
-  - A supercharged, almost-C++17-compliant std::vector implementation. lni::vector is up-to-149% more efficient than counterparts on major compilers - gcc 6, clang 3.8 and VS14. I’ve also found a major mistake in Facebook’s folly::fbvector.
+  - A supercharged, almost-C++17-compliant std::vector implementation. lni::vector is up-to-149% more efficient than counterparts on major compilers - gcc 6, clang 3.8 and VS14. I've also found a major mistake in Facebook's folly::fbvector.
 
 - [massif-cherrypick](https://github.com/lnishan/massif-cherrypick)
   - `C++`, `Memory Profiling`
