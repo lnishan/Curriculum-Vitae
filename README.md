@@ -92,8 +92,7 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
   - `IT`, `Web Development`, `Community Coordination`
   - Worked closely with Twitch celebrity streamers (5,000 - 100,000 followers).
   - General IT Assistance, including setting up PCs and troubleshooting issues.
-  - Wrote a simple form management system for hosting tournaments.
-  - Wrote handy tools for news publishing with JavaScript, PHP and MySQL.
+  - Wrote a simple form management system for hosting tournaments and a couple handy tools for news publishing with HTML, CSS, JavaScript, PHP and MySQL.
 
 - **i-Feels.net** ... Hong Kong / Work from home ......... Apr 2006 － Feb 2008  
 **Founding Board Member**, **Administrator**, **Developer**
@@ -158,7 +157,7 @@ I was the **team leader** and **main coder** in all the following contests.
 
 ## Projects
 
-- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **200+ forks** on GitHub)
+- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**800+ stars**, **200+ forks** on GitHub)
   - `Markdown`, `Algorithms`, `Data Structures`
   - A curated list of awesome resources for competitive programming, algorithms and data structures. This project was aimed to connect the world to information - and it did :) .
 
