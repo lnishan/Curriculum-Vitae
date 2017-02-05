@@ -11,6 +11,7 @@ A passionate, experienced and skilled computer science student.
 - [Honors](#honors)
 - [Projects](#projects)
 - [Talks](#talks)
+- [Trivia](#trivia)
 
 ---
 
@@ -194,3 +195,10 @@ Components: (1) FingRRR, a multithreaded interaction framework built on top of O
 - [State Space Search](http://www.slideshare.net/JasmineChen23/state-space-search-66388212), NCTU Training Camp, Summer 2015
 - [Basic Enumeration](http://www.slideshare.net/JasmineChen23/basic-enumeration-chinese), NCTU Training Camp, Summer 2015
 - [Essential C/C++](http://www.slideshare.net/JasmineChen23/essential-cc), NCTU Training Camp, Winter 2015
+
+
+## Trivia
+
+- I used to solve a 3x3 Rubik's Cube in under 18 seconds on average.
+- I used to moderate UniCube.tw - then one of the most popular online forum for Rubik's cubers in Taiwan.
+
