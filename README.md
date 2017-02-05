@@ -170,7 +170,7 @@ I was the **team leader** and **main coder** in all the following contests.
   - `C++`, `Memory Profiling`
   - A Valgrind extension to analyze partial memory consumptions. It takes in an massif.out file and forges a new one containing only stats from functions that match the specified pattern.
 
-- [ChDict](https://github.com/lnishan/ChDict)
+- [ChiChew](https://github.com/lnishan/ChiChew)
   - `Python`, `Web Scraping`, `Packet Inspection`
   - A web crawler for the Chinese-Chinese dictionary published by the Ministry of Education in Taiwan. The project was written in Python3 with the help of requests and BeautifulSoup. I observed HTML sources and HTTP header requests to bypass protection mechanisms.
 
