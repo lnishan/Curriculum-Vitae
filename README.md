@@ -200,5 +200,5 @@ Components: (1) FingRRR, a multithreaded interaction framework built on top of O
 ## Trivia
 
 - I used to solve a 3x3 Rubik's Cube in under 18 seconds on average.
-- I used to moderate UniCube.tw - then one of the most popular online forum for Rubik's cubers in Taiwan.
+- I moderated UniCube.tw - then one of the most popular online forum for Rubik's cubers in Taiwan.
 
