@@ -64,15 +64,13 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
   - Won **1st Place** for the internship and presented the work at InnoDay in Synopsys Shanghai.
   - Project: Current Density Check Performance Improvement: Trimming Resistance Network
   - Speeded up Nodal Analysis by 120% while reducing memory consumption by 47%.
-  - Adapted and applied advanced graph theory knowledge and algorithms.
   - Utilized a wide range of tools for graph visualization, debugging, validation, profiling, data analytics and documentations. I Also wrote several shell scripts to automate these routines.
   - Wrote massif-cherrypick, a Valgrind extension to analyze partial memory consumptions.
 
 - **ITSA E-tutor** ... Work from home .................... Apr 2016 － Dec 2016  
 **Problem Reviewer**
   - `Algorithms`, `Discrete Mathematics`
-  - ITSA E-tutor is an online learning platform initiated by the Ministry of Education in Taiwan.
-  - Tasked with reviewing written problems which are mostly about algorithms and discrete mathematics on a monthly basis.
+  - Tasked with reviewing written algorithmic problems on ITSA E-tutor, an online learning platform initiated by the Ministry of Education in Taiwan.
   - Report any issues with problem statements and verify correctness of test data.
 
 - **Cooler Master** ... Taipei, Taiwan ................... Apr 2016 － Jun 2016  
@@ -100,7 +98,7 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
   - `Visual Basic`, `PHP`, `MySQL`, `Website Mangagment`
   - Cofounded a small software development studio with some friends from Hong Kong.
   - Then cofounded and administered i-Feels.net with the same group of friends.
-  - i-Feels.net had 60,000+ registered members, making it one of the most popular forums in Hong Kong.
+  - i-Feels.net was one of the most popular forums in Hong Kong, having 60,000+ registered members and was among the top 500 websites in Hong Kong according to Alexa Traffic Rank.
   - More information can be found on this [Wiki page](http://evchk.wikia.com/wiki/I-Feels.net).
   - I've also administered a number of websites and forums with moderate web traffic during that period of time.
 
