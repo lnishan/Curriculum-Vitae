@@ -30,10 +30,11 @@ Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** 
 
 - **National Chiao Tung University**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
-  - GPA **4.0**/4.3
+  - GPA 4.0/4.3
   - **5** *Academic Achievement Awards* (4 in Computer Science)
   - **2** *Curricular Scholarships* (Discrete Mathematics, Data Structures)
-  - **Teaching Assistant**, Object-Oriented Programming
+  - **Teaching Assistant**, *Object-Oriented Programming*
+  - Relevant Coursework: Data Structures, Algorithms, Discrete Mathematics, Probabilities, Operating Systems, Computer Organization, Computer Networks, Computer Graphics, Computer Security, Database Systems, System/Network Administration Practice, Parallel Programming, Human Computer Interaction
 
 
 ## Skills
@@ -61,16 +62,15 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 - **Synopsys** ... Taipei, Taiwan ........................ Jul 2016 － Aug 2016  
 **R&D Intern**
   - `C/C++`, `Algorithms`, `Shell Scripting`, `Graph Visualization`, `Memory Profiling`
-  - Won **1st Place** for the internship and presented the work at InnoDay in Synopsys Shanghai.
-  - Project: Current Density Check Performance Improvement: Trimming Resistance Network
-  - Speeded up Nodal Analysis by 120% while reducing memory consumption by 47%.
-  - Utilized a wide range of tools for graph visualization, debugging, validation, profiling, data analytics and documentations. I Also wrote several shell scripts to automate these routines.
-  - Wrote massif-cherrypick, a Valgrind extension to analyze partial memory consumptions.
+  - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
+  - Designed and implemented an innovative graph algorithm which speeded up Nodal Analysis by 120% and reduced its memory usage by 47%.
+  - Utilized a wide assortment of tools and libraries for graph visualization, debugging, validation, profiling, data analytics and documentations. 
+  - Wrote a Valgrind extension and several shell scripts for automated testing and profiling.
 
 - **ITSA E-tutor** ... Work from home .................... Apr 2016 － Dec 2016  
 **Problem Reviewer**
   - `Algorithms`, `Discrete Mathematics`
-  - Tasked with reviewing written algorithmic problems on ITSA E-tutor, an online learning platform initiated by the Ministry of Education in Taiwan.
+  - Tasked with reviewing written algorithmic problems on ITSA E-tutor - an online learning platform initiated by the Ministry of Education in Taiwan.
   - Report any issues with problem statements and verify correctness of test data.
 
 - **Cooler Master** ... Taipei, Taiwan ................... Apr 2016 － Jun 2016  
@@ -96,11 +96,10 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 - **i-Feels.net** ... Hong Kong / Work from home ......... Apr 2006 － Feb 2008  
 **Founding Board Member**, **Administrator**, **Developer**
   - `Visual Basic`, `PHP`, `MySQL`, `Website Mangagment`
-  - Cofounded a small software development studio with some friends from Hong Kong.
-  - Then cofounded and administered i-Feels.net with the same group of friends.
-  - i-Feels.net was one of the most popular forums in Hong Kong, having 60,000+ registered members and was among the top 500 websites in Hong Kong according to Alexa Traffic Rank.
+  - Cofounded i-Feels.net and its predecessor ODB - a small development studio with friends from Hong Kong.
+  - i-Feels.net was one of the most popular forums in Hong Kong, having 60,000+ registered members and being amongst the top 500 websites in Hong Kong according to Alexa Traffic Rank.
+  - Administered a number of other websites and forums with moderate web traffic during that period of time.
   - More information can be found on this [Wiki page](http://evchk.wikia.com/wiki/I-Feels.net).
-  - I've also administered a number of websites and forums with moderate web traffic during that period of time.
 
 
 ## Honors
@@ -117,25 +116,30 @@ Top 5% in class for the “Core Subjects” designated by the department
 
 ### Problem Solving (Algorithms & Data Structures)
 
-I was the **team leader** and **main coder** in all the following contests.
+Been the **team leader** and **main coder** in all the following contests:
 
 - **ACM-ICPC (International Collegiate Programming Contest)**
-  - *Honorable Mention* - `2015/Taipei`, `2015/Hanoi`, `2012/Kaohsiung`
+  - *Honorable Mention* - `2015/Taipei`
+  - *Honorable Mention* - `2015/Hanoi`
+  - *Honorable Mention* - `2012/Kaohsiung`
 - **National Collegiate Programming Contest**
   - *3rd Place* - `2015`
-  - *Honorable Mention* - `2014`, `2012`
+  - *Honorable Mention* - `2014`
+  - *Honorable Mention* - `2012`
 - **ITSA National Programming Contest**
   - *Honorable Mention* - `2015`
   - *11th Place* - `2014`
 - **National Problem Solving Contest**
-  - *Finalist* - `2011` (15th Place), `2010` (9th Place)
+  - *Finalist* - `2011` (15th Place)
+  - *Finalist* - `2010` (9th Place)
   - *5th Place* - `2008`
   - *4th Place* - `2007`
 - **Taipei Software Programming Contest**
   - *3rd Place* - `2011`
   - *Honorable Mention* - `2009`
 - **Taipei Information Proficiency Competition**
-  - *3rd Prize* - `2011`, `2010`
+  - *3rd Prize* - `2011`
+  - *3rd Prize* - `2010`
   - *Honorable Mention* - `2009`
 
 ### Web Development (HTML/CSS/JavaScript/PHP/MySQL)
@@ -158,23 +162,23 @@ I was the **team leader** and **main coder** in all the following contests.
 
 - [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**800+ stars**, **200+ forks** on GitHub)
   - `Markdown`, `Algorithms`, `Data Structures`
-  - A curated list of awesome resources for competitive programming, algorithms and data structures. This project was aimed to connect the world to information - and it did :) .
+  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. Currently starred by 800+ and forked by 200+ GitHub users worldwide. This project was aimed to connect the world to information - and it did :) .
 
 - [lni::vector](https://github.com/lnishan/vector)
   - `C++`, `Data Structures`
-  - A supercharged, almost-C++17-compliant std::vector implementation. lni::vector is up-to-149% more efficient than counterparts on major compilers - gcc 6, clang 3.8 and VS14. I've also found a major mistake in Facebook's folly::fbvector.
+  - An optimized, almost-C++17-compliant std::vector implementation. Up-to-149% more efficient than counterparts when tested on gcc 6, clang 3.8 and VS14. Found a mistake in Facebook’s folly::fbvector.
 
 - [massif-cherrypick](https://github.com/lnishan/massif-cherrypick)
   - `C++`, `Memory Profiling`
-  - A Valgrind extension to analyze partial memory consumptions. It takes in an massif.out file and forges a new one containing only stats from functions that match the specified pattern.
+  - A Valgrind extension to analyze partial memory consumptions. Takes in an massif.out file, and forges a new one containing only stats from functions that match the specified pattern.
 
 - [ChiChew](https://github.com/lnishan/ChiChew)
   - `Python`, `Web Scraping`, `Packet Inspection`
-  - A web crawler for the Chinese-Chinese dictionary published by the Ministry of Education in Taiwan. The project was written in Python3 with the help of requests and BeautifulSoup. I observed HTML sources and HTTP header requests to bypass protection mechanisms.
+  - A web crawler for the Chinese-Chinese dictionary published by the Ministry of Education in Taiwan. Observed HTTP requests, inspected packets and came up with a neat approach to crawl the data. 
 
 - [Parallel Video Processing](https://github.com/sunset1995/parallel_analysis)
   - `C++`, `Parallel Programming`, `Video Processing`
-  - A 3-person study project on parallelizing video processing. We utilized many APIs - C++ thread, Pthread, OpenMP, CUDA and FPGA on Windows, Linux and OSX. Our final report was graded the highest in a course for graduates.
+  - A 3-person course project on parallelizing video processing. Utilized many APIs - C++11 thread, Pthread, OpenMP, CUDA and FPGA on Windows, Linux and OSX. Achieved brilliant results. 
 
 - [Twitch Plays Connect6](https://github.com/lnishan/TwitchPlaysConnect6)
   - `C++`, `Multithreaded Programming`, `Network Programming`, `Artificial Intelligence`
@@ -183,7 +187,7 @@ Components: (1) FingRRR, a multithreaded interaction framework built on top of O
 
 - [FormMgr](http://lnishan.net/FormMgr/)
   - `HTML5`, `JavaScript`, `PHP`, `MySQL`, `Web Development`
-  - A simple and easy-to-use form management system for organizations. It allows users to validate fields with custom regular expressions. I utilized HTML5 native drag-and-drop and JavaScript for extensive DOM manipulations.
+  - A simple and easy-to-use form management system for organizations. Allows users to validate fields with custom regular expressions. Utilized HTML5 native drag-and-drop and JavaScript for extensive DOM manipulations.
 
 
 ## Talks
