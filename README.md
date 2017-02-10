@@ -4,6 +4,7 @@ A diligent self-learner and hard-worker.
 
 
 Notable Achievements
+
 - Google Software Engineering Intern, BS/MS, Summer 2017
 - Synopsys Taiwan R&D Intern, Summer 2016. Best Intern of the Year, winning against top MS/PhD students.
 - Creator of "Awesome Competitive Programming" (800+ stars, 200 forks on GitHub)
