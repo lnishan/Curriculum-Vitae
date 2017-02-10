@@ -1,8 +1,20 @@
 # Jasmine “lnishan” Chen
-A passionate, experienced and skilled computer science student.
+A passionate, experienced, skilled and versatile CS student with 10+ years of experiences in programming.  
+A diligent self-learner and hard-worker.
+
+
+Notable Achievements
+- Google Software Engineering Intern, BS/MS, Summer 2017
+- Synopsys Taiwan R&D Intern, Summer 2016. Best Intern of the Year, winning against top MS/PhD students.
+- Creator of "Awesome Competitive Programming" (800+ stars, 200 forks on GitHub)
+- 21 national/regional awards in programming competitions over a 11-year career
+- Created, administered and managed multiple websites with decent web traffic
 
 
 ---
+
+
+## Table of Contents
 
 - [Contact](#contact)
 - [Education](#education)
