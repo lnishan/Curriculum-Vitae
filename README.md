@@ -194,8 +194,7 @@ Been the **team leader** and **main coder** in all the following contests:
 
 - [Twitch Plays Connect6](https://github.com/lnishan/TwitchPlaysConnect6)
   - `C++`, `Multithreaded Programming`, `Network Programming`, `Artificial Intelligence`
-  - An audience-sourced Connect6 game hosted on Twitch.  
-Components: (1) FingRRR, a multithreaded interaction framework built on top of OpenCV. (2) TwitchPlaysAPI, an IRC bot that communicates with IRC servers. (3) MyConnectAI, a Connect6 AI I designed from scratch.
+  - An audience-sourced Connect6 game hosted on TwitchTV. Designed a multi-threaded interaction framework built on top of OpenCV, adapted an open-source IRC bot and wrote a simple Connect6 AI.
 
 - [FormMgr](http://lnishan.net/FormMgr/)
   - `HTML5`, `JavaScript`, `PHP`, `MySQL`, `Web Development`
@@ -213,6 +212,6 @@ Components: (1) FingRRR, a multithreaded interaction framework built on top of O
 
 ## Trivia
 
-- I used to solve a 3x3 Rubik's Cube in under 18 seconds on average.
-- I moderated UniCube.tw - then one of the most popular online forum for Rubik's cubers in Taiwan.
-
+- Used to solve a 3x3 Rubik's Cube in under 18 seconds on average.
+- Moderated UniCube.tw - then one of the most popular online forum for Rubik's cubers in Taiwan.
+- [Has 500+ games on Steam](http://steamcommunity.com/id/lnishan) through game reselling and trading (was the first and only person in Taiwan to do so).
