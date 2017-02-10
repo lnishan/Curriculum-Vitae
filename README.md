@@ -3,7 +3,7 @@ A passionate, experienced, skilled and versatile CS student with 10+ years of ex
 A diligent self-learner and hard-worker.
 
 
-Notable Achievements
+**Notable Achievements**
 
 - Google Software Engineering Intern, BS/MS, Summer 2017
 - Synopsys Taiwan R&D Intern, Summer 2016. Best Intern of the Year, winning against top MS/PhD students.
@@ -215,4 +215,5 @@ Been the **team leader** and **main coder** in all the following contests:
 
 - Used to solve a 3x3 Rubik's Cube in under 18 seconds on average.
 - Moderated UniCube.tw - then one of the most popular online forum for Rubik's cubers in Taiwan.
-- [Has 500+ games on Steam](http://steamcommunity.com/id/lnishan) through game reselling and trading (was the first and only person in Taiwan to do so).
+- [Has 500+ games on Steam](http://steamcommunity.com/id/lnishan) through game reselling and trading. Was the first and only person in Taiwan to do so.
+- [Has 3000+ followers on TwitchTV](https://www.twitch.tv/lnishan) being an active supporter of esports and game streaming in general.
