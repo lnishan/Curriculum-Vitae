@@ -214,6 +214,7 @@ Been the **team leader** and **main coder** in all the following contests:
 ## Trivia
 
 - Used to solve a 3x3 Rubik's Cube in under 18 seconds on average.
-- Moderated UniCube.tw - then one of the most popular online forum for Rubik's cubers in Taiwan.
+- Moderated UniCube.tw - then one of the most popular online forums for Rubik's cubers in Taiwan.
 - [Has 500+ games on Steam](http://steamcommunity.com/id/lnishan) through game reselling and trading. Was the first and only person in Taiwan to do so.
 - [Has 3000+ followers on TwitchTV](https://www.twitch.tv/lnishan) being an active supporter of esports and game streaming in general.
+- Organized the [very first reddit AMA for TW/HK esports players](https://www.reddit.com/r/leagueoflegends/comments/13rca6/tpa_toyz_ama_answers_englishtchinese/).
