@@ -69,6 +69,8 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 
 - **Google** ... Cambridge, Massachusetts ................ Jun 2017 － Sep 2017  
 **Software Engineering Intern**
+  - `TBD`
+  - To be determined
 
 - **Synopsys** ... Taipei, Taiwan ........................ Jul 2016 － Aug 2016  
 **R&D Intern**
