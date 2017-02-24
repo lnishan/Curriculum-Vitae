@@ -7,8 +7,8 @@ A diligent self-learner and hard-worker.
 
 - Google Software Engineering Intern, BS/MS, Summer 2017
 - Synopsys Taiwan R&D Intern, Summer 2016. Best Intern of the Year, winning against top MS/PhD students.
-- Creator of "Awesome Competitive Programming" (1,000+ stars, 200+ forks on GitHub)
 - 21 national/regional awards in programming competitions over a 11-year career
+- Creator of "Awesome Competitive Programming" (1,000+ stars, 200+ forks on GitHub)
 - Created, administered and managed multiple websites with decent web traffic.
 
 
@@ -43,7 +43,7 @@ Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** 
 
 - **National Chiao Tung University**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
-  - GPA 4.0/4.3
+  - GPA 3.99/4.30
   - **5** *Academic Achievement Awards* (4 in Computer Science)
   - **2** *Curricular Scholarships* (Discrete Mathematics, Data Structures)
   - **Teaching Assistant**, *Object-Oriented Programming*
@@ -60,9 +60,10 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 - **Proficient**
   - `Python`
   - `Shell Scripting`
-  - `Parallel Programming` (C++ thread/Pthread/OpenMP/CUDA/MPI)
-  - `System/Network Administration` (FreeBSD/Linux/macOS)
-  - `Web Development` (HTML/CSS/JavaScript/PHP/MySQL)
+  - `Parallel Programming` *(C++ thread/Pthread/OpenMP/CUDA/MPI)*
+  - `System/Network Administration` *(FreeBSD/Linux/macOS)*
+  - `Web Development` *(HTML/CSS/JavaScript/PHP/MySQL)*
+  - `Systems Programming`
 
 
 ## Experiences
@@ -175,7 +176,7 @@ Been the **team leader** and **main coder** in all the following contests:
 
 - [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (1,000+ stars, 200+ forks on GitHub)
   - `Markdown`, `Algorithms`, `Data Structures`
-  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. Currently starred by 800+ and forked by 200+ GitHub users worldwide. This project was aimed to connect the world to information - and it did :) .
+  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. Currently starred by 1,000+ and forked by 200+ GitHub users worldwide. This project was aimed to connect the world to information - and it did :) .
 
 - [lni::vector](https://github.com/lnishan/vector)
   - `C++`, `Data Structures`
