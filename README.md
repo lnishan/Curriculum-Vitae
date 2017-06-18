@@ -6,9 +6,9 @@ A diligent self-learner and hard-worker.
 **Highlights**
 
 - Google Software Engineering Intern, BS/MS, Summer 2017
-- Synopsys Taiwan R&D Intern, Summer 2016. Best Intern of the Year, winning against top MS/PhD students.
+- Synopsys Taiwan R&D Intern, Summer 2016. Best Intern of the Year, winning against top MS/PhD students
 - 21 national/regional awards in programming competitions over a 11-year career
-- Creator of "Awesome Competitive Programming" (1,000+ stars, 200+ forks on GitHub)
+- Creator of "Awesome Competitive Programming" (1,400+ stars, 300+ forks on GitHub)
 - Created, administered and managed multiple websites with decent web traffic.
 
 
@@ -174,7 +174,7 @@ Been the **team leader** and **main coder** in all the following contests:
 
 ## Projects
 
-- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (1,000+ stars, 200+ forks on GitHub)
+- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (1,400+ stars, 300+ forks on GitHub)
   - `Markdown`, `Algorithms`, `Data Structures`
   - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. Currently starred by 1,000+ and forked by 200+ GitHub users worldwide. This project was aimed to connect the world to information - and it did :) .
 
