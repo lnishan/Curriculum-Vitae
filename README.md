@@ -1,15 +1,19 @@
 # Jasmine “lnishan” Chen
-A passionate, experienced, skilled and versatile CS student with 10+ years of experiences in programming.  
-A diligent self-learner and hard-worker.
 
+A passionate, experienced and skilled computer science student with extensive knowledge of programming and computer applications. An initiative taker and diligent self-learner.
 
-**Highlights**
+- Career Summary
+  - Software Engineering Intern at Google USA.
+  - R&D Intern at Synopsys Taiwan. Best Intern of the Year.
+  - 3 years of experiences in gaming industries (C++ SDK/Front-end/MIS/Community Mgmt).
+  - Been a competitive programmer for 11 years.
 
-- Google Software Engineering Intern, BS/MS, Summer 2017
-- Synopsys Taiwan R&D Intern, Summer 2016. Best Intern of the Year, winning against top MS/PhD students
-- 21 national/regional awards in programming competitions over a 11-year career
-- Creator of "Awesome Competitive Programming" (1,400+ stars, 300+ forks on GitHub)
-- Created, administered and managed multiple websites with decent web traffic.
+- Career Achievements
+  - Expanded a large-scale testing framework used by Google YouTube and Search Infrastructure developers.
+  - Applied, analyzed and profiled graph algorithms on large-scale datasets.
+  - Created, administered and managed multiple websites with decent web traffic.
+  - Received 21 national/regional awards in programming competitions (almost always as the team leader).
+  - Curated a well-received learning resource collection: "Awesome Competitive Programming" (1,600+ stars, 400+ forks on GitHub)
 
 
 ---
@@ -43,11 +47,11 @@ Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** 
 
 - **National Chiao Tung University**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
-  - GPA 3.99/4.30
+  - GPA 4.00/4.30 (Rank 1/53)
   - **5** *Academic Achievement Awards* (4 in Computer Science)
   - **2** *Curricular Scholarships* (Discrete Mathematics, Data Structures)
   - **Teaching Assistant**, *Object-Oriented Programming*
-  - Relevant Coursework: Data Structures, Algorithms, Discrete Mathematics, Probabilities, Operating Systems, Computer Organization, Computer Networks, Computer Graphics, Computer Security, Database Systems, System/Network Administration Practice, Parallel Programming, Human Computer Interaction
+  - Relevant Coursework: Data Structures, Algorithms, Artificial Intelligence, Discrete Mathematics, Probabilities, Operating Systems, Computer Organization, Computer Networks, Computer Graphics, Computer Security, Database Systems, System/Network Administration Practice, Parallel Programming, Human Computer Interaction
 
 
 ## Skills
@@ -70,8 +74,10 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 
 - **Google** ... Cambridge, Massachusetts ................ Jun 2017 － Sep 2017  
 **Software Engineering Intern**
-  - `TBD`
-  - To be determined
+  - `Python`, `Software Testing`, `Infrastructures`
+  - Expanded a large-scale integration testing framework used across services at Google (including YouTube Infrastructures and Search Infrastructures) to support iterative development with a new build tool. The tool monitors local code changes and automatically recompiles, redeploys, and retests services as edits are made.
+  - Shortened workflow of iterative testing by 1 – 8 minutes (or 10 - 20x) on each retest.
+  - Worked with YouTube Live developers to gather feedback for my work.
 
 - **Synopsys** ... Taipei, Taiwan ........................ Jul 2016 － Aug 2016  
 **R&D Intern**
@@ -84,13 +90,11 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 - **ITSA E-tutor** ... Work from home .................... Apr 2016 － Dec 2016  
 **Problem Reviewer**
   - `Algorithms`, `Discrete Mathematics`
-  - Tasked with reviewing written algorithmic problems on ITSA E-tutor - an online learning platform initiated by the Ministry of Education in Taiwan.
-  - Report any issues with problem statements and verify correctness of test data.
+  - Reviewed 120 algorithmic problems on ITSA E-tutor ( http://e-tutor.itsa.org.tw ), an online learning platform initiated by the Ministry of Education in Taiwan.
 
 - **Cooler Master** ... Taipei, Taiwan ................... Apr 2016 － Jun 2016  
 **Independent Contractor**
   - `C++`, `Windows API`, `C++ SDK`, `Time-Driven Programming`
-  - Introduced and led a team of 4 juniors.
   - Programmed LED lighting effects on MasterKeys Pro (keyboard) with its C++ SDK and Windows API.
   - Attained animations with smooth gradient transitions with advanced time-driven programming.
 
@@ -174,9 +178,9 @@ Been the **team leader** and **main coder** in all the following contests:
 
 ## Projects
 
-- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (1,400+ stars, 300+ forks on GitHub)
+- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (1,800+ stars, 400+ forks on GitHub)
   - `Markdown`, `Algorithms`, `Data Structures`
-  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. Currently starred by 1,000+ and forked by 200+ GitHub users worldwide. This project was aimed to connect the world to information - and it did :) .
+  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. Currently starred by 1,800+ and forked by 400+ GitHub users worldwide. This project was aimed to connect the world to information - and it did :) .
 
 - [lni::vector](https://github.com/lnishan/vector)
   - `C++`, `Data Structures`
@@ -217,5 +221,5 @@ Been the **team leader** and **main coder** in all the following contests:
 - Used to solve a 3x3 Rubik's Cube in under 18 seconds on average.
 - Moderated UniCube.tw - then one of the most popular online forums for Rubik's cubers in Taiwan.
 - [Has 500+ games on Steam](http://steamcommunity.com/id/lnishan) through game reselling and trading. Was the first and only person in Taiwan to do so.
-- [Has 3000+ followers on TwitchTV](https://www.twitch.tv/lnishan) being an active supporter of esports and game streaming in general.
+- [Had 3000+ followers on TwitchTV](https://www.twitch.tv/lnishan) being an active supporter of esports and game streaming in general.
 - Organized the [very first reddit AMA for TW/HK esports players](https://www.reddit.com/r/leagueoflegends/comments/13rca6/tpa_toyz_ama_answers_englishtchinese/).
