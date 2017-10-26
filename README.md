@@ -2,19 +2,19 @@
 
 A passionate, experienced and skilled computer science student with extensive knowledge of programming and computer applications. An initiative taker and diligent self-learner.
 
-- Career Summary
-  - Software Engineering Intern at Google USA.
-  - R&D Intern at Synopsys Taiwan. Best Intern of the Year.
-  - 3 years of experiences in gaming industries (C++ SDK/Front-end/MIS/Community Mgmt).
-  - Been a competitive programmer for 11 years.
+Career Summary
 
-- Career Achievements
+- **Software Engineering Intern** at **Google USA**.
   - Expanded a large-scale testing framework used by Google YouTube and Search Infrastructure developers.
+- **R&D Intern** at **Synopsys Taiwan**. 
   - Applied, analyzed and profiled graph algorithms on large-scale datasets.
-  - Created, administered and managed multiple websites with decent web traffic.
-  - Received 21 national/regional awards in programming competitions (almost always as the team leader).
+  - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
+- **3 years** of experiences in **gaming industries**.
+  - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated multiple events.
+- Been a **competitive programmer** for **11 years**, almost always as the team leader.
+  - Received 21 national/regional awards in programming competitions.
   - Curated a well-received learning resource collection: "Awesome Competitive Programming" (1,800+ stars, 400+ forks on GitHub).
-
+- Created, administered and managed multiple websites with decent web traffic.
 
 ---
 
@@ -56,18 +56,9 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 
 ## Skills
 
-- **Specialized**
-  - `C/C++`
-  - `Algorithms`
-  - `Data Structures`
-
-- **Proficient**
-  - `Python`
-  - `Shell Scripting`
-  - `Parallel Programming` *(C++ thread/Pthread/OpenMP/CUDA/MPI)*
-  - `System/Network Administration` *(FreeBSD/Linux/macOS)*
-  - `Web Development` *(HTML/CSS/JavaScript/PHP/MySQL)*
-  - `Systems Programming`
+- Areas: **`Algorithms`**, **`Data Structures`**, `Backend Development`, `Software Engineering`, `Parallel Computing`, `Web Development`
+- Languages: **`C++`**, **`C`**, **`Python`**, `Bash`, (`HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`)
+- OSes: **`Windows (Cygwin)`**, **`macOS`**, **`Linux`**, `FreeBSD`
 
 
 ## Experiences
