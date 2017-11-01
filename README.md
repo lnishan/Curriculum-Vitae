@@ -48,6 +48,7 @@ Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** 
 - **National Chiao Tung University**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
   - GPA 4.00/4.30 (Rank 1/53)
+  - Bachelor's Thesis: [**SQLGitHub**](https://github.com/lnishan/SQLGitHub), Access GitHub API with SQL-like syntaxes, In collaboration with **Mozilla Taiwan**.
   - **5** *Academic Achievement Awards* (4 in Computer Science)
   - **2** *Curricular Scholarships* (Discrete Mathematics, Data Structures)
   - **Teaching Assistant**, *Object-Oriented Programming*
@@ -133,7 +134,6 @@ Been the **team leader** and **main coder** in all the following contests:
   - *Honorable Mention* - `2012/Kaohsiung`
 - **National Collegiate Programming Contest**
   - *3rd Place* - `2015`
-  - *Honorable Mention* - `2014`
   - *Honorable Mention* - `2012`
 - **ITSA National Programming Contest**
   - *Honorable Mention* - `2015`
