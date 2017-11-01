@@ -64,7 +64,7 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 
 ## Experiences
 
-- **Google** ... Cambridge, Massachusetts ................ Jun 2017 － Sep 2017  
+- **Google** ... Cambridge, MA, USA ................ Jun 2017 － Sep 2017  
 **Software Engineering Intern**
   - `Python`, `Software Testing`, `Infrastructures`
   - Expanded a large-scale integration testing framework used across services at Google (including YouTube Infrastructures and Search Infrastructures) to support iterative development with a new build tool. The tool monitors local code changes and automatically recompiles, redeploys, and retests services as edits are made.
