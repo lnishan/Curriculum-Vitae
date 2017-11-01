@@ -56,7 +56,7 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 
 ## Skills
 
-- Areas: **`Algorithms`**, **`Data Structures`**, `Backend Development`, `Software Engineering`, `Parallel Computing`, `Web Development`
+- Areas: **`Algorithms`**, **`Data Structures`**, `Backend Development`, `Software Engineering`, `Parallel Computing`, `Web Development`, `System Administration`
 - Languages: **`C++`**, **`C`**, **`Python`**, `Bash`, (`HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`)
 - OSes: **`Windows (Cygwin)`**, **`macOS`**, **`Linux`**, `FreeBSD`
 
