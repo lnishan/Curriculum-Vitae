@@ -76,7 +76,7 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 **R&D Intern**
   - `C/C++`, `Algorithms`, `Shell Scripting`, `Graph Visualization`, `Memory Profiling`
   - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
-  - Designed and implemented an innovative graph algorithm which speeded up Nodal Analysis by 120% and reduced its memory usage by 47%.
+  - Designed, implemented and analyzed an innovative graph algorithm that speeded up Nodal Analysis by 120% and reduced its memory usage by 47% on large-scale datasets.
   - Utilized a wide assortment of tools and libraries for graph visualization, debugging, validation, profiling, data analytics and documentations. 
   - Wrote a Valgrind extension and several shell scripts for automated testing and profiling.
 
