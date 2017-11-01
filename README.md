@@ -47,11 +47,11 @@ Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** 
 
 - **National Chiao Tung University**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
-  - GPA 4.00/4.30 (Rank 1/53)
+  - GPA **4.00**/4.30 (Rank 1/53)
   - Bachelor's Thesis: [**SQLGitHub**](https://github.com/lnishan/SQLGitHub), Access GitHub API with SQL-like syntaxes, In collaboration with **Mozilla Taiwan**.
-  - **5** *Academic Achievement Awards* (4 in Computer Science)
-  - **2** *Curricular Scholarships* (Discrete Mathematics, Data Structures)
-  - **Teaching Assistant**, *Object-Oriented Programming*
+  - 5 *Academic Achievement Awards* (4 in Computer Science)
+  - 2 *Curricular Scholarships* (Discrete Mathematics, Data Structures)
+  - Teaching Assistant, *Object-Oriented Programming*
   - Relevant Coursework: Data Structures, Algorithms, Artificial Intelligence, Discrete Mathematics, Probabilities, Operating Systems, Computer Organization, Computer Networks, Computer Graphics, Computer Security, Database Systems, System/Network Administration Practice, Parallel Programming, Human Computer Interaction
 
 
@@ -67,7 +67,8 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 - **Google** ... Cambridge, MA, USA ................ Jun 2017 － Sep 2017  
 **Software Engineering Intern**
   - `Python`, `Software Testing`, `Infrastructures`
-  - Expanded a large-scale integration testing framework used across services at Google (including YouTube Infrastructures and Search Infrastructures) to support iterative development with a new build tool. The tool monitors local code changes and automatically recompiles, redeploys, and retests services as edits are made.
+  - Expanded a large-scale integration testing framework used across services at Google (including YouTube Infrastructures and Search Infrastructures) to support iterative development with a new build tool.
+  - The tool monitors local code changes and automatically recompiles, redeploys, and retests services as edits are made.
   - Shortened workflow of iterative testing by 1 – 8 minutes (or 10 - 20x) on each retest.
   - Worked with YouTube Live developers to gather feedback for my work.
 
