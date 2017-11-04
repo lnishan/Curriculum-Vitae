@@ -1,13 +1,13 @@
 # Jasmine “lnishan” Chen
 
-A passionate, experienced and skilled computer science student with extensive knowledge of programming and computer applications. An initiative taker and diligent self-learner.
+Dedicated, proficient, and experienced CS student with hands-on experience working with production-scale datasets and services in notable firms. Led teams and won numerous awards in programming competitions.
 
 Career Summary
 
 - **Software Engineering Intern** at **Google USA**.
   - Expanded a large-scale testing framework used by Google YouTube and Search Infrastructure developers.
 - **R&D Intern** at **Synopsys Taiwan**. 
-  - Applied, analyzed and profiled graph algorithms on large-scale datasets.
+  - Designed, implemented and analyzed graph algorithms on production-scale datasets.
   - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
 - **3 years** of experiences in **gaming industries**.
   - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated multiple events.
@@ -47,8 +47,8 @@ Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** 
 
 - **National Chiao Tung University**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
-  - GPA **4.00**/4.30 (Rank 1/53)
-  - Bachelor's Thesis: [**SQLGitHub**](https://github.com/lnishan/SQLGitHub), Access GitHub API with SQL-like syntaxes, In collaboration with **Mozilla Taiwan**.
+  - **GPA: 4.00**/4.30 (**Rank: 1**/53)
+  - Bachelor's Thesis: [SQLGitHub (Python, 2017)](https://github.com/lnishan/SQLGitHub)], a tool that makes managing GitHub organizations easier. Features a SQL-like syntax to query through GitHub API. In collaboration with **Mozilla Taiwan**.
   - 5 *Academic Achievement Awards* (4 in Computer Science)
   - 2 *Curricular Scholarships* (Discrete Mathematics, Data Structures)
   - Teaching Assistant, *Object-Oriented Programming*
@@ -76,7 +76,7 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 **R&D Intern**
   - `C/C++`, `Algorithms`, `Shell Scripting`, `Graph Visualization`, `Memory Profiling`
   - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
-  - Designed, implemented and analyzed an innovative graph algorithm that speeded up Nodal Analysis by 120% and reduced its memory usage by 47% on large-scale datasets.
+  - Designed and implemented an innovative graph algorithm which speeded up Nodal Analysis by 120% and reduced its memory usage by 47%.
   - Utilized a wide assortment of tools and libraries for graph visualization, debugging, validation, profiling, data analytics and documentations. 
   - Wrote a Valgrind extension and several shell scripts for automated testing and profiling.
 
@@ -170,31 +170,31 @@ Been the **team leader** and **main coder** in all the following contests:
 
 ## Projects
 
-- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (1,800+ stars, 400+ forks on GitHub)
+- [Awesome Competitive Programming (Markdown, 2016)](https://github.com/lnishan/awesome-competitive-programming) 
   - `Markdown`, `Algorithms`, `Data Structures`
   - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. Currently starred by 1,800+ and forked by 400+ GitHub users worldwide. This project was aimed to connect the world to information - and it did :) .
 
-- [lni::vector](https://github.com/lnishan/vector)
+- [lni::vector (C++, 2016)](https://github.com/lnishan/vector)
   - `C++`, `Data Structures`
   - An optimized, almost-C++17-compliant std::vector implementation. Up-to-149% more efficient than counterparts when tested on gcc 6, clang 3.8 and VS14. Found a mistake in Facebook’s folly::fbvector.
 
-- [massif-cherrypick](https://github.com/lnishan/massif-cherrypick)
+- [massif-cherrypick (C++, 2016)](https://github.com/lnishan/massif-cherrypick)
   - `C++`, `Memory Profiling`
-  - A Valgrind extension to analyze partial memory consumptions. Takes in a massif.out file, and forges a new one containing only stats from functions that match the specified pattern.
+  - A Valgrind extension to analyze partial memory consumptions. Given a massif.out file as input, generates a new one with only stats of matched functions.
 
-- [ChiChew](https://github.com/lnishan/ChiChew)
+- [ChiChew (Python, 2016)](https://github.com/lnishan/ChiChew)
   - `Python`, `Web Scraping`, `Packet Inspection`
   - A web crawler for the Chinese-Chinese dictionary published by the Ministry of Education in Taiwan. Observed HTTP requests, inspected packets and came up with a neat approach to crawl the data. 
 
-- [Parallel Video Processing](https://github.com/sunset1995/parallel_analysis)
+- [Parallel Video Processing (C++, 2015)](https://github.com/sunset1995/parallel_analysis)
   - `C++`, `Parallel Programming`, `Video Processing`
-  - A 3-person course project on parallelizing video processing. Utilized many APIs - C++11 thread, Pthread, OpenMP, CUDA and FPGA on Windows, Linux and OSX. Achieved brilliant results. 
+  - A 3-person course project on parallelizing video processing. Utilized various parallel APIs - C++11 thread, Pthread, OpenMP, CUDA and FPGA on Windows, Linux and OSX. Achieved great results. 
 
-- [Twitch Plays Connect6](https://github.com/lnishan/TwitchPlaysConnect6)
+- [Twitch Plays Connect6 (C++, 2014)](https://github.com/lnishan/TwitchPlaysConnect6)
   - `C++`, `Multithreaded Programming`, `Network Programming`, `Artificial Intelligence`
-  - An audience-sourced Connect6 game hosted on TwitchTV. Designed a multi-threaded interaction framework built on top of OpenCV, adapted an open-source IRC bot and wrote a simple Connect6 AI.
+  - A crowrdsourced Connect6 game hosted on TwitchTV. Designed a multi-threaded interaction framework built on top of OpenCV, adapted an open-source IRC client and wrote a simple Connect6 AI.
 
-- [FormMgr](http://lnishan.net/FormMgr/)
+- [FormMgr (Web, 2013)](http://lnishan.net/FormMgr/)
   - `HTML5`, `JavaScript`, `PHP`, `MySQL`, `Web Development`
   - A simple and easy-to-use form management system for organizations. Allows users to validate fields with custom regular expressions. Utilized HTML5 native drag-and-drop and JavaScript for extensive DOM manipulations.
 
