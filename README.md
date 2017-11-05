@@ -1,6 +1,6 @@
 # Jasmine “lnishan” Chen
 
-Dedicated, proficient, and experienced CS student with hands-on experience working with production-scale datasets and services in notable firms. Led teams and won numerous awards in programming competitions.
+Dedicated, experienced and proficient CS student with hands-on experience working with production-scale datasets and services in notable firms. Led teams and won numerous awards in programming competitions.
 
 Career Summary
 
@@ -11,7 +11,7 @@ Career Summary
   - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
 - **3 years** of experiences in **gaming industries**.
   - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated multiple events.
-- Been a **competitive programmer** for **11 years**, almost always as the team leader.
+- Been a **competitive programmer** for **11 years**, usually as the team leader.
   - Received 21 national/regional awards in programming competitions.
   - Curated a well-received learning resource collection: "Awesome Competitive Programming" (1,800+ stars, 400+ forks on GitHub).
 - Created, administered and managed multiple websites with decent web traffic.
