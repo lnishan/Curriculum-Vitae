@@ -48,7 +48,7 @@ Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** 
 - **National Chiao Tung University**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
   - **GPA: 4.00**/4.30 (**Rank: 1**/53)
-  - Bachelor's Thesis: [SQLGitHub (Python, 2017)](https://github.com/lnishan/SQLGitHub)], a tool that makes managing GitHub organizations easier. Features a SQL-like syntax to query through GitHub API. In collaboration with **Mozilla Taiwan**.
+  - Bachelor's Thesis: [SQLGitHub (Python, 2017)](https://github.com/lnishan/SQLGitHub), a tool that makes managing GitHub organizations easier. Features a SQL-like syntax to query through GitHub API. In collaboration with **Mozilla Taiwan**.
   - 5 *Academic Achievement Awards* (4 in Computer Science)
   - 2 *Curricular Scholarships* (Discrete Mathematics, Data Structures)
   - Teaching Assistant, *Object-Oriented Programming*
