@@ -358,7 +358,7 @@ td, th {
 body {
     padding: 0 !important;
     margin: 0 !important;
-    font-family: "Open Sans",  "Helvetica Neue",  Helvetica,  Arial,  sans-serif !important;
+    font-family: "Helvetica LT Std", "Open Sans",  "Helvetica Neue",  Helvetica,  Arial,  sans-serif !important;
     /* set in html: font-size: 12px !important; */
     line-height: 1.5 !important;
     color: #606c71 !important;
