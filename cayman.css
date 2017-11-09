@@ -555,7 +555,7 @@ body pre code:before, body pre code:after, body pre tt:before, body pre tt:after
 }
 body ul, body ol {
     margin-top: 0 !important;
-    margin-bottom: 0 !important;
+    margin-bottom: 0.1rem !important;
     padding-left: 2rem !important;
 }
 body blockquote {
