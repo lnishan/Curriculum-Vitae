@@ -9,26 +9,22 @@ Career Summary
 - **R&D Intern** at **Synopsys Taiwan**. 
   - Designed, implemented and analyzed graph algorithms on production-scale datasets.
   - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
-- **3 years** of experiences in **gaming industries**.
+- 3 years of experiences in gaming industries.
   - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated multiple events.
-- Been a **competitive programmer** for **11 years**, usually as the team leader.
-  - Received 21 national/regional awards in programming competitions.
+- Been a competitive programmer for 11 years, usually as the team leader.
+  - Received 20+ national/regional awards in programming competitions.
   - Curated a well-received learning resource collection: "Awesome Competitive Programming" (1,800+ stars, 400+ forks on GitHub).
 - Created, administered and managed multiple websites with decent web traffic.
+
 
 ---
 
 
-## Table of Contents
+## Contents
 
-- [Contact](#contact)
-- [Education](#education)
-- [Skills](#skills)
-- [Experiences](#experiences)
-- [Honors](#honors)
-- [Projects](#projects)
-- [Talks](#talks)
-- [Trivia](#trivia)
+| Contact | Education | Skills | Experience | Honors | Projects | Talks | Trivia |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
 
 ---
 
@@ -47,8 +43,8 @@ Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** 
 
 - **National Chiao Tung University**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
+  - Bachelor's Thesis: [SQLGitHub (Python, 2017)](https://github.com/lnishan/SQLGitHub), a tool that makes managing GitHub organizations easier. Features a SQL-like syntax to query through GitHub API. In collaboration with *Mozilla Taiwan*.
   - **GPA: 4.00**/4.30 (**Rank: 1**/53)
-  - Bachelor's Thesis: [SQLGitHub (Python, 2017)](https://github.com/lnishan/SQLGitHub), a tool that makes managing GitHub organizations easier. Features a SQL-like syntax to query through GitHub API. In collaboration with **Mozilla Taiwan**.
   - 5 *Academic Achievement Awards* (4 in Computer Science)
   - 2 *Curricular Scholarships* (Discrete Mathematics, Data Structures)
   - Teaching Assistant, *Object-Oriented Programming*
@@ -57,58 +53,67 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 
 ## Skills
 
-- Areas: **`Algorithms`**, **`Data Structures`**, `Backend Development`, `Software Engineering`, `Parallel Computing`, `Web Development`, `System Administration`
-- Languages: **`C++`**, **`C`**, **`Python`**, `Bash`, (`HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`)
-- OSes: **`Windows (Cygwin)`**, **`macOS`**, **`Linux`**, `FreeBSD`
+- Areas
+  - **`Algorithms`**, **`Data Structures`**, `Backend Development`, `Software Engineering`, `Parallel Computing`, `Web Development`, `System Administration`
+- Languages
+  - **`C++`**, **`C`**, **`Python`**, `Bash`, `Web` (`HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`)
+- OSes
+  - **`Windows (Cygwin)`**, **`macOS`**, **`Linux`**, `FreeBSD`
 
 
-## Experiences
+## Experience
 
-- **Google** ... Cambridge, MA, USA ................ Jun 2017 － Sep 2017  
-**Software Engineering Intern**
+- **Google**  
+**Software Engineering Intern**  
+*Cambridge, MA, USA, Jun 2017 － Sep 2017*
   - `Python`, `Software Testing`, `Infrastructures`
-  - Expanded a large-scale integration testing framework used across services at Google (including YouTube Infrastructures and Search Infrastructures) to support iterative development with a new build tool.
-  - The tool monitors local code changes and automatically recompiles, redeploys, and retests services as edits are made.
-  - Shortened workflow of iterative testing by 1 – 8 minutes (or 10 - 20x) on each retest.
-  - Worked with YouTube Live developers to gather feedback for my work.
+  - Expanded a large-scale integration testing framework used across services at Google, including YouTube and Search Infrastructures, to support iterative development with an extension that monitors local code changes and automatically recompiles, redeploys, and retests services as edits are made.
+  - Shortened workflow of iterative testing by 1 – 8 minutes (or 10 – 20x) on each retest.
+  - Worked with Live developers to test and enhance the extension, while improving the quality of existing test cases.
 
-- **Synopsys** ... Taipei, Taiwan ........................ Jul 2016 － Aug 2016  
-**R&D Intern**
+- **Synopsys**  
+**R&D Intern**  
+*Taipei, Taiwan, Jul 2016 － Aug 2016*
   - `C/C++`, `Algorithms`, `Shell Scripting`, `Graph Visualization`, `Memory Profiling`
-  - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
-  - Designed and implemented an innovative graph algorithm which speeded up Nodal Analysis by 120% and reduced its memory usage by 47%.
-  - Utilized a wide assortment of tools and libraries for graph visualization, debugging, validation, profiling, data analytics and documentations. 
+  - Designed, implemented and analyzed an innovative graph algorithm that speeded up Nodal Analysis by 120% and reduced its memory usage by 47% on datasets used in production.
+  - Performed extensive profiling, data analysis and 3D graph visualization on the effects of the algorithm.
   - Wrote a Valgrind extension and several shell scripts for automated testing and profiling.
+  - Rated Best Intern of The Year and presented the work in Synopsys Shanghai.
 
-- **ITSA E-tutor** ... Work from home .................... Apr 2016 － Dec 2016  
-**Problem Reviewer**
+- **ITSA E-tutor**  
+**Problem Reviewer**  
+*Remote/Tainan, Taiwan, Apr 2016 － Dec 2016*
   - `Algorithms`, `Discrete Mathematics`
   - Reviewed 120 algorithmic problems on ITSA E-tutor ( http://e-tutor.itsa.org.tw ), an online learning platform initiated by the Ministry of Education in Taiwan.
 
-- **Cooler Master** ... Taipei, Taiwan ................... Apr 2016 － Jun 2016  
-**Independent Contractor**
+- **Cooler Master**  
+**Independent Contractor**  
+*Taipei, Taiwan, Apr 2016 － Jun 2016*
   - `C++`, `Windows API`, `C++ SDK`, `Time-Driven Programming`
   - Programmed LED lighting effects on MasterKeys Pro (keyboard) with its C++ SDK and Windows API.
   - Attained animations with smooth gradient transitions with advanced time-driven programming.
 
-- **4Gamers** ... Taipei, Taiwan ......................... Jan 2014 － Aug 2014  
-**Part-time Internship**
+- **4Gamers**  
+**Part-time Internship**  
+*Taipei, Taiwan, Jan 2014 － Aug 2014*
   - `IT`, `Web Development`
   - General IT Assistance, including setting up PCs and troubleshooting issues.
   - Implemented professional web designs with HTML, CSS and JavaScript.
+  - Assisted many Twitch celebrity streamers (5,000 - 100,000 followers) in partnerships, stream moderation and other issues.
 
-- **eGamers** ... Work from home ......................... Jul 2012 － Dec 2013  
-**Part-time Internship**, **Community Coordinator**
+- **eGamers**  
+**Part-time Internship**, **Community Coordinator**  
+*Remote, Jul 2012 － Dec 2013*
   - `IT`, `Web Development`, `Community Coordination`
-  - Worked closely with Twitch celebrity streamers (5,000 - 100,000 followers).
   - General IT Assistance, including setting up PCs and troubleshooting issues.
   - Wrote a simple form management system for hosting tournaments and a couple handy tools for news publishing with HTML, CSS, JavaScript, PHP and MySQL.
+  - Assisted many Twitch celebrity streamers (5,000 - 100,000 followers) in partnerships, sponsorships, stream moderation and other issues.
 
-- **i-Feels.net** ... Hong Kong / Work from home ......... Apr 2006 － Feb 2008  
-**Cofounder**, **Administrator**, **Developer**
+- **i-Feels.net**  
+**Cofounder**, **Administrator**, **Developer**  
+*Remote/Hong Kong, Apr 2006 － Feb 2008*
   - `Visual Basic`, `PHP`, `MySQL`, `Website Mangagment`
-  - Cofounded i-Feels.net and its predecessor ODB - a small development studio with friends from Hong Kong.
-  - i-Feels.net was one of the most popular forums in Hong Kong, having 60,000+ registered members and being amongst the top 500 websites in Hong Kong according to Alexa Traffic Rank.
+  - Cofounded i-Feels.net and its predecessor ODB - a small development studio with friends from Hong Kong. i-Feels.net was one of the most popular forums in Hong Kong, having 60,000+ registered members and being amongst the top 500 websites in Hong Kong according to Alexa Traffic Rank.
   - Administered a number of other websites and forums with moderate web traffic during that period of time.
   - More information can be found on this [Wiki page](http://evchk.wikia.com/wiki/I-Feels.net).
 
@@ -130,42 +135,42 @@ Top 5% in class for the “Core Subjects” designated by the department
 Been the **team leader** and **main coder** in all the following contests:
 
 - **ACM-ICPC (International Collegiate Programming Contest)**
-  - *Honorable Mention* - `2015/Taipei`
-  - *Honorable Mention* - `2015/Hanoi`
-  - *Honorable Mention* - `2012/Kaohsiung`
+  - *Honorable Mention*, `2015/Taipei`
+  - *Honorable Mention*, `2015/Hanoi`
+  - *Honorable Mention*, `2012/Kaohsiung`
 - **National Collegiate Programming Contest**
-  - *3rd Place* - `2015`
-  - *Honorable Mention* - `2012`
+  - *3rd Place*, `2015`
+  - *Honorable Mention*, `2012`
 - **ITSA National Programming Contest**
-  - *Honorable Mention* - `2015`
-  - *11th Place* - `2014`
+  - *Honorable Mention*, `2015`
+  - *11th Place*, `2014`
 - **National Problem Solving Contest**
-  - *Finalist* - `2011` (15th Place)
-  - *Finalist* - `2010` (9th Place)
-  - *5th Place* - `2008`
-  - *4th Place* - `2007`
+  - *Finalist*, `2011` (15th Place)
+  - *Finalist*, `2010` (9th Place)
+  - *5th Place*, `2008`
+  - *4th Place*, `2007`
 - **Taipei Software Programming Contest**
-  - *3rd Place* - `2011`
-  - *Honorable Mention* - `2009`
+  - *3rd Place*, `2011`
+  - *Honorable Mention*, `2009`
 - **Taipei Information Proficiency Competition**
-  - *3rd Prize* - `2011`
-  - *3rd Prize* - `2010`
-  - *Honorable Mention* - `2009`
+  - *3rd Prize*, `2011`
+  - *3rd Prize*, `2010`
+  - *Honorable Mention*, `2009`
 
 ### Web Development (HTML/CSS/JavaScript/PHP/MySQL)
 
 - **National Collegiate Programming Contest - Application Software**
-  - *3rd Place* - `2015`
-  - *Honorable Mention* - `2014`
+  - *3rd Place*, `2015`
+  - *Honorable Mention*, `2014`
 - **Taiwan School Cyberfair**
-  - *Bronze (3rd Place)* - `2010`
+  - *Bronze (3rd Place)*, `2010`
 
 ### GUI (Visual Basic)
 
 - **Information Technology Month - Creative Software Programming Contest**
-  - *4th Place* - `2010/National/Individual`
-  - *4th Place* - `2009/National/Team`
-  - *4th Place* - `2009/Northern Region/Individual`
+  - *4th Place*, `2010/National/Individual`
+  - *4th Place*, `2009/National/Team`
+  - *4th Place*, `2009/Northern Region/Individual`
 
 
 ## Projects
@@ -180,7 +185,7 @@ Been the **team leader** and **main coder** in all the following contests:
 
 - [massif-cherrypick (C++, 2016)](https://github.com/lnishan/massif-cherrypick)
   - `C++`, `Memory Profiling`
-  - A Valgrind extension to analyze partial memory consumptions. Given a massif.out file as input, generates a new one with only stats of matched functions.
+  - A Valgrind extension to analyze partial memory consumptions. Takes in a massif.out file, and forges a new one containing only stats of the functions that match the specified pattern..
 
 - [ChiChew (Python, 2016)](https://github.com/lnishan/ChiChew)
   - `Python`, `Web Scraping`, `Packet Inspection`
@@ -188,11 +193,11 @@ Been the **team leader** and **main coder** in all the following contests:
 
 - [Parallel Video Processing (C++, 2015)](https://github.com/sunset1995/parallel_analysis)
   - `C++`, `Parallel Programming`, `Video Processing`
-  - A 3-person course project on parallelizing video processing. Utilized various parallel APIs - C++11 thread, Pthread, OpenMP, CUDA and FPGA on Windows, Linux and OSX. Achieved great results. 
+  - A group project on parallelizing video processing. Utilized various APIs: C++11 thread, Pthread, OpenMP, CUDA and FPGA on Windows, Linux and OSX. Drawn interesting conclusions. 
 
 - [Twitch Plays Connect6 (C++, 2014)](https://github.com/lnishan/TwitchPlaysConnect6)
   - `C++`, `Multithreaded Programming`, `Network Programming`, `Artificial Intelligence`
-  - A crowrdsourced Connect6 game hosted on TwitchTV. Designed a multi-threaded interaction framework built on top of OpenCV, adapted an open-source IRC client and wrote a simple Connect6 AI.
+  - A crowdsourced Connect6 game hosted on Twitch. Designed a multi-threaded interaction framework built on OpenCV, adapted an open-source IRC client and wrote a simple Connect6 AI.
 
 - [FormMgr (Web, 2013)](http://lnishan.net/FormMgr/)
   - `HTML5`, `JavaScript`, `PHP`, `MySQL`, `Web Development`
@@ -201,6 +206,7 @@ Been the **team leader** and **main coder** in all the following contests:
 
 ## Talks
 
+- {Name-of-testing-framework} Interactive Edit/Reload, Google Cambridge, Sep 8, 2017
 - CDC Performance Improvement: Trimming Resistance Network, InnoDay, Synopsys Shanghai, Nov 14, 2016
 - Profiling & Graph Visualization, Synopsys Taiwan, Aug 17, 2016
 - [State Space Search](http://www.slideshare.net/JasmineChen23/state-space-search-66388212), NCTU Training Camp, Summer 2015
