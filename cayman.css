@@ -493,7 +493,7 @@ body h1, body h2, body h3, body h4, body h5, body h6 {
     color: #159957 !important;
 }
 body p {
-    margin-bottom: 1em !important;
+    margin-bottom: 0.4em !important;
 }
 body code {
     padding: 2px 4px !important;
