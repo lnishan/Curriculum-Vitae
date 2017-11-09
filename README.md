@@ -13,7 +13,7 @@ Career Summary
   - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated multiple events.
 - Been a competitive programmer for 11 years, usually as the team leader.
   - Received 20+ national/regional awards in programming competitions.
-  - Curated a well-received learning resource collection: "Awesome Competitive Programming" (1,800+ stars, 400+ forks on GitHub).
+  - Curated a well-received resource collection: "Awesome Competitive Programming" (1,800+ stars, 400+ forks on GitHub).
 - Created, administered and managed multiple websites with decent web traffic.
 
 
@@ -22,8 +22,14 @@ Career Summary
 
 ## Contents
 
-| Contact | Education | Skills | Experience | Honors | Projects | Talks | Trivia |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+- Contact
+- Education
+- Skills
+- Experience
+- Honors
+- Projects
+- Talks
+- Trivia
 
 
 ---
@@ -196,7 +202,7 @@ Been the **team leader** and **main coder** in all the following contests:
   - A group project on parallelizing video processing. Utilized various APIs: C++11 thread, Pthread, OpenMP, CUDA and FPGA on Windows, Linux and OSX. Drawn interesting conclusions. 
 
 - [Twitch Plays Connect6 (C++, 2014)](https://github.com/lnishan/TwitchPlaysConnect6)
-  - `C++`, `Multithreaded Programming`, `Network Programming`, `Artificial Intelligence`
+  - `C++`, `Multithreading`, `Network Programming`, `Artificial Intelligence`
   - A crowdsourced Connect6 game hosted on Twitch. Designed a multi-threaded interaction framework built on OpenCV, adapted an open-source IRC client and wrote a simple Connect6 AI.
 
 - [FormMgr (Web, 2013)](http://lnishan.net/FormMgr/)
@@ -206,12 +212,12 @@ Been the **team leader** and **main coder** in all the following contests:
 
 ## Talks
 
-- {Name-of-testing-framework} Interactive Edit/Reload, Google Cambridge, Sep 8, 2017
-- CDC Performance Improvement: Trimming Resistance Network, InnoDay, Synopsys Shanghai, Nov 14, 2016
-- Profiling & Graph Visualization, Synopsys Taiwan, Aug 17, 2016
-- [State Space Search](http://www.slideshare.net/JasmineChen23/state-space-search-66388212), NCTU Training Camp, Summer 2015
-- [Basic Enumeration](http://www.slideshare.net/JasmineChen23/basic-enumeration-chinese), NCTU Training Camp, Summer 2015
-- [Essential C/C++](http://www.slideshare.net/JasmineChen23/essential-cc), NCTU Training Camp, Winter 2015
+- Jasmine Chen. *{Name-of-testing-framework} Interactive Edit/Reload*. Google Cambridge. Sep 8, 2017.
+- Jasmine Chen. *CDC Performance Improvement: Trimming Resistance Network*. Synopsys Shanghai. Nov 14, 2016.
+- Jasmine Chen. *Profiling & Graph Visualization*. Synopsys Taiwan. Aug 17, 2016.
+- Jasmine Chen. [*State Space Search*](http://www.slideshare.net/JasmineChen23/state-space-search-66388212). NCTU Training Camp. Summer 2015.
+- Jasmine Chen. [*Basic Enumeration*](http://www.slideshare.net/JasmineChen23/basic-enumeration-chinese). NCTU Training Camp. Summer 2015.
+- Jasmine Chen. [*Essential C/C++*](http://www.slideshare.net/JasmineChen23/essential-cc). NCTU Training Camp. Winter 2015.
 
 
 ## Trivia
@@ -219,5 +225,5 @@ Been the **team leader** and **main coder** in all the following contests:
 - Used to solve a 3x3 Rubik's Cube in under 18 seconds on average.
 - Moderated UniCube.tw - then one of the most popular online forums for Rubik's cubers in Taiwan.
 - [Has 500+ games on Steam](http://steamcommunity.com/id/lnishan) through game reselling and trading. Was the first and only person in Taiwan to do so.
-- [Had 3000+ followers on TwitchTV](https://www.twitch.tv/lnishan) being an active supporter of esports and game streaming in general.
+- [Had 3000+ followers on Twitch](https://www.twitch.tv/lnishan) being an active community member of esports and game streaming .
 - Organized the [very first reddit AMA for TW/HK esports players](https://www.reddit.com/r/leagueoflegends/comments/13rca6/tpa_toyz_ama_answers_englishtchinese/).
