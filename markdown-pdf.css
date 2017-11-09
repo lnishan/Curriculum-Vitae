@@ -1,0 +1,11 @@
+* {
+  font-family: 'Helvetica';
+  font-size: 10px;
+  line-height: 12.5px;
+  margin-top: 0.6em !important;
+  margin-bottom: 0.6em !important;
+}
+
+ul {
+  padding-left: 2em !important;
+}
