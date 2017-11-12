@@ -1,7 +1,7 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
     font-family: sans-serif !important;
-    font-size: 12px !important;
+    font-size: 14px !important;
     -ms-text-size-adjust: 100% !important;
     -webkit-text-size-adjust: 100%}
 body {
@@ -358,7 +358,7 @@ td, th {
 body {
     padding: 0 !important;
     margin: 0 !important;
-    font-family: "Helvetica LT Std", "Open Sans",  "Helvetica Neue",  Helvetica,  Arial,  sans-serif !important;
+    font-family: Roboto, "Helvetica LT Std", "Open Sans",  "Helvetica Neue",  Helvetica,  Arial,  sans-serif !important;
     /* set in html: font-size: 12px !important; */
     line-height: 1.5 !important;
     color: #606c71 !important;
