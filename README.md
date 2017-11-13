@@ -10,10 +10,10 @@ Career Summary
   - Designed, implemented and analyzed graph algorithms on production-scale datasets.
   - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
 - 3 years of experiences in gaming industries.
-  - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated multiple events.
+  - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated events.
 - Been a competitive programmer for 11 years, usually as the team leader.
   - Received 20+ national/regional awards in programming competitions.
-  - Curated a well-received resource collection: "Awesome Competitive Programming" (1,800+ stars, 400+ forks on GitHub).
+  - Curated a well-received resource collection: "Awesome Competitive Programming" (1,800+ stars on GitHub).
 - Created, administered and managed multiple websites with decent web traffic.
 
 
@@ -105,7 +105,7 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
   - `IT`, `Web Development`
   - General IT Assistance, including setting up PCs and troubleshooting issues.
   - Implemented professional web designs with HTML, CSS and JavaScript.
-  - Assisted many Twitch celebrity streamers (5,000 - 100,000 followers) in partnerships, stream moderation and other issues.
+  - Assisted many Twitch celebrity streamers (5,000 - 100,000 followers) in partnerships, sponsorships, stream moderation and other issues.
 
 - **eGamers**  
 **Part-time Internship**, **Community Coordinator**  
