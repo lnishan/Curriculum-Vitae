@@ -27,6 +27,9 @@ a {
 a:active, a:hover {
     outline: 0 !important;
 }
+a[href]:after {
+	content : "" !important;
+}
 abbr[title] {
     border-bottom: 1px dotted !important;
 }
@@ -563,6 +566,9 @@ body blockquote {
     margin-left: 0 !important;
     color: #819198 !important;
     border-left: 0.3rem solid #dce6f0 !important;
+	border-right: 0 !important;
+	border-top: 0 !important;
+	border-bottom: 0 !important;
 }
 body blockquote>:first-child {
     margin-top: 0 !important;

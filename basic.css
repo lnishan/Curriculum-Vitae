@@ -29,3 +29,7 @@ h4 {
 ul {
   padding-left: 2em !important;
 }
+
+a[href]:after {
+	content : "" !important;
+}
