@@ -9,11 +9,11 @@ Career Summary
 - **R&D Intern** at **Synopsys Taiwan**. 
   - Designed, implemented and analyzed graph algorithms on production-scale datasets.
   - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
-- 3 years of experiences in gaming industries.
-  - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated events.
-- Been a competitive programmer for 11 years, usually as the team leader.
+- 11 years of experience in competitive programming. Led numerous teams and gave lectures.
   - Received 20+ national/regional awards in programming competitions.
   - Curated a well-received resource collection: "Awesome Competitive Programming" (1,800+ stars on GitHub).
+- 3 years of experience in gaming industries.
+  - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated events.
 - Created, administered and managed multiple websites with decent web traffic.
 
 
@@ -73,24 +73,27 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 **Software Engineering Intern**  
 *Cambridge, MA, USA, Jun 2017 － Sep 2017*
   - `Python`, `Software Testing`, `Infrastructures`
-  - Expanded a large-scale integration testing framework used across services at Google, including YouTube and Search Infrastructures, to support iterative development with an extension that monitors local code changes and automatically recompiles, redeploys, and retests services as edits are made.
+  - Expanded a large-scale integration testing framework used across services at Google, including YouTube Infrastructures and Search Infrastructures, to support and facilitate iterative development.
+  - Wrote an extension that monitors local code changes and automatically recompiles, redeploys, and retests services.
   - Shortened workflow of iterative testing by 1 – 8 minutes (or 10 – 20x) on each retest.
-  - Worked with Live developers to test and enhance the extension, while improving the quality of existing test cases.
+  - Worked with Live developers to test and enhance the extension, which also led to improvements of test cases.
 
 - **Synopsys**  
 **R&D Intern**  
 *Taipei, Taiwan, Jul 2016 － Aug 2016*
   - `C/C++`, `Algorithms`, `Shell Scripting`, `Graph Visualization`, `Memory Profiling`
-  - Designed, implemented and analyzed an innovative graph algorithm that speeded up Nodal Analysis by 120% and reduced its memory usage by 47% on datasets used in production.
+  - Designed, implemented, and analyzed a novel, efficient, scalable graph algorithm that speeded up Nodal Analysis by 120% and reduced its memory usage by 47% on datasets used in production.
   - Performed extensive profiling, data analysis and 3D graph visualization on the effects of the algorithm.
-  - Wrote a Valgrind extension and several shell scripts for automated testing and profiling.
+  - Wrote several shell scripts and a custom memory allocator and for fully automated testing and profiling.
+  - Wrote [massif-cherrypick (C++, 2016)](https://github.com/lnishan/massif-cherrypick), a Valgrind extension to analyze partial memory consumptions.
   - Rated Best Intern of The Year and presented the work in Synopsys Shanghai.
 
 - **ITSA E-tutor**  
 **Problem Reviewer**  
 *Remote/Tainan, Taiwan, Apr 2016 － Dec 2016*
   - `Algorithms`, `Discrete Mathematics`
-  - Reviewed 120 algorithmic problems on ITSA E-tutor ( http://e-tutor.itsa.org.tw ), an online learning platform initiated by the Ministry of Education in Taiwan.
+  - Reviewed 120 algorithmic problems on [ITSA E-tutor](http://e-tutor.itsa.org.tw), an online learning platform initiated by the Ministry of Education in Taiwan.
+  - Examined problem statements, assessed feasibility and correctness of solutions, and validated test cases.
 
 - **Cooler Master**  
 **Independent Contractor**  
