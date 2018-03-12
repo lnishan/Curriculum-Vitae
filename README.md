@@ -4,6 +4,7 @@ Dedicated, experienced and proficient CS student with hands-on experience workin
 
 Career Summary
 
+- **Incoming Software Engineer** at **Google Taipei**.
 - **Software Engineering Intern** at **Google USA**.
   - Expanded a large-scale testing framework used by Google YouTube and Search Infrastructure developers.
 - **R&D Intern** at **Synopsys Taiwan**. 
@@ -49,9 +50,9 @@ Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** 
 
 - **National Chiao Tung University**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
-  - Bachelor's Thesis: [SQLGitHub (Python, 2017)](https://github.com/lnishan/SQLGitHub), a tool that makes managing GitHub organizations easier. Features a SQL-like syntax to query through GitHub API. In collaboration with *Mozilla Taiwan*.
-  - **GPA: 4.00**/4.30 (**Rank: 1**/53)
-  - 5 *Academic Achievement Awards* (4 in Computer Science)
+  - Bachelor's Thesis: [SQLGitHub (Python, 2017)](https://github.com/lnishan/SQLGitHub), a project mentored by Mozilla to make managing GitHub organizations easier. Features a SQL-like syntax to fetch aggregate data from GitHub API. Wrote a SQL parser from scratch.
+  - **GPA: 4.01**/4.30
+  - 5 *Academic Achievement Awards* (Top 5% in class)
   - 2 *Curricular Scholarships* (Discrete Mathematics, Data Structures)
   - Teaching Assistant, *Object-Oriented Programming*
   - Relevant Coursework: Data Structures, Algorithms, Artificial Intelligence, Discrete Mathematics, Probabilities, Operating Systems, Computer Organization, Computer Networks, Computer Graphics, Computer Security, Database Systems, System/Network Administration Practice, Parallel Programming, Human Computer Interaction
@@ -70,6 +71,12 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 ## Experience
 
 - **Google**  
+**Software Engineer**  
+*Taipei City, Taiwan, Jul 2018 (expected) –*
+  - `C`, `C++`, `Systems Programming`
+  - ChromeOS
+
+- **Google**  
 **Software Engineering Intern**  
 *Cambridge, MA, USA, Jun 2017 － Sep 2017*
   - `Python`, `Software Testing`, `Infrastructures`
@@ -80,7 +87,7 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 
 - **Synopsys**  
 **R&D Intern**  
-*Taipei, Taiwan, Jul 2016 － Aug 2016*
+*Taipei City, Taiwan, Jul 2016 － Aug 2016*
   - `C/C++`, `Algorithms`, `Shell Scripting`, `Graph Visualization`, `Memory Profiling`
   - Designed, implemented, and analyzed a novel, efficient, scalable graph algorithm that speeded up Nodal Analysis by 120% and reduced its memory usage by 47% on datasets used in production.
   - Performed extensive profiling, data analysis and 3D graph visualization on the effects of the algorithm.
@@ -97,14 +104,14 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 
 - **Cooler Master**  
 **Independent Contractor**  
-*Taipei, Taiwan, Apr 2016 － Jun 2016*
+*Taipei City, Taiwan, Apr 2016 － Jun 2016*
   - `C++`, `Windows API`, `C++ SDK`, `Time-Driven Programming`
   - Programmed LED lighting effects on MasterKeys Pro (keyboard) with its C++ SDK and Windows API.
   - Attained animations with smooth gradient transitions with advanced time-driven programming.
 
 - **4Gamers**  
 **Part-time Internship**  
-*Taipei, Taiwan, Jan 2014 － Aug 2014*
+*Taipei City, Taiwan, Jan 2014 － Aug 2014*
   - `IT`, `Web Development`
   - General IT Assistance, including setting up PCs and troubleshooting issues.
   - Implemented professional web designs with HTML, CSS and JavaScript.
