@@ -12,7 +12,7 @@ Career Summary
   - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
 - 11 years of experience in competitive programming. Led numerous teams and gave lectures.
   - Received 20+ national/regional awards in programming competitions.
-  - Curated a well-received resource collection: "Awesome Competitive Programming" (1,800+ stars on GitHub).
+  - Curated a well-received resource collection: "Awesome Competitive Programming" (2,500+ stars on GitHub).
 - 3 years of experience in gaming industries.
   - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated events.
 - Created, administered and managed multiple websites with decent web traffic.
@@ -72,9 +72,9 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 
 - **Google**  
 **Software Engineer**  
-*Taipei City, Taiwan, Jul 2018 (expected) –*
+*Taipei City, Taiwan, May 2018 (expected) –*
   - `C`, `C++`, `Systems Programming`
-  - ChromeOS
+  - Chrome OS Media
 
 - **Google**  
 **Software Engineering Intern**  
@@ -193,7 +193,7 @@ Been the **team leader** and **main coder** in all the following contests:
 
 - [Awesome Competitive Programming (Markdown, 2016)](https://github.com/lnishan/awesome-competitive-programming) 
   - `Markdown`, `Algorithms`, `Data Structures`
-  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. Currently starred by 1,800+ and forked by 400+ GitHub users worldwide. This project was aimed to connect the world to information - and it did :) .
+  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. Currently starred by 2,500+ and forked by 600+ GitHub users worldwide. This project was aimed to connect the world to information - and it did :) .
 
 - [lni::vector (C++, 2016)](https://github.com/lnishan/vector)
   - `C++`, `Data Structures`
