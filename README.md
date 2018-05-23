@@ -4,7 +4,7 @@ Dedicated, experienced and proficient CS student with hands-on experience workin
 
 Career Summary
 
-- **Incoming Software Engineer** at **Google Taipei**.
+- **Software Engineer** at **Google Taipei**.
 - **Software Engineering Intern** at **Google USA**.
   - Expanded a large-scale testing framework used by Google YouTube and Search Infrastructure developers.
 - **R&D Intern** at **Synopsys Taiwan**. 
@@ -72,7 +72,7 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 
 - **Google**  
 **Software Engineer**  
-*Taipei City, Taiwan, May 2018 (expected) –*
+*Taipei City, Taiwan, May 2018 –*
   - `C`, `C++`, `Systems Programming`
   - Chrome OS Media
 
