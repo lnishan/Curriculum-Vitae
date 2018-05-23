@@ -1,6 +1,6 @@
 # Jasmine “lnishan” Chen
 
-Dedicated, experienced and proficient CS student with hands-on experience working with production-scale datasets and services in notable firms. Led teams and won numerous awards in programming competitions.
+Dedicated, self-motivated and proficient software engineer with hands-on experience working with production-scale datasets and services in notable firms. Led teams and won numerous awards in programming competitions.
 
 Career Summary
 
